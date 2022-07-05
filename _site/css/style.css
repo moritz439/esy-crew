@@ -3,7 +3,7 @@
 body {
     background-color: var(--color-lighter);
     box-sizing: content-box;
-    margin: 16px;
+    margin: 0px;
 }
 
 .navbar-wrapper {
@@ -13,10 +13,11 @@ body {
 
 .navbar-wrapper .navbar-elements {
     display: flex;
-    gap: 32px;
+    padding: 8px;
 }
 
 .navbar-wrapper a {
+    padding: 16px;
     text-decoration: none;
     font-size: larger;
 }
