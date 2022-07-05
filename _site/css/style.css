@@ -2,4 +2,21 @@
 
 body {
     background-color: var(--color-lighter);
+    box-sizing: content-box;
+    margin: 16px;
+}
+
+.navbar-wrapper {
+    display: flex;
+    max-width: 100%;
+}
+
+.navbar-wrapper .navbar-elements {
+    display: flex;
+    gap: 32px;
+}
+
+.navbar-wrapper a {
+    text-decoration: none;
+    font-size: larger;
 }
