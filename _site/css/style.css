@@ -1,23 +1,16 @@
 @import './colors.css';
+@import './components/navbar.css';
+@import './components/release.css';
+@import './components/post.css';
 
 body {
-    background-color: var(--color-lighter);
+    background-color: var(--color-dark);
     box-sizing: content-box;
     margin: 0px;
+    color: var(--color-darker)
 }
 
-.navbar-wrapper {
-    display: flex;
-    max-width: 100%;
+main {
+    margin: 32px;
 }
 
-.navbar-wrapper .navbar-elements {
-    display: flex;
-    padding: 8px;
-}
-
-.navbar-wrapper a {
-    padding: 16px;
-    text-decoration: none;
-    font-size: larger;
-}
