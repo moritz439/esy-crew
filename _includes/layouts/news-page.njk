@@ -1,0 +1,23 @@
+--- 
+layout: layouts/base.njk 
+---
+
+<div class="newsitems-preview-wrapper">
+    {%- for newsItem in collections.news -%}
+        <a class="newsitem-element-wrapper hover" href="{{ newsItem.url   }}">
+            <div class="image-wrapper">
+                <img src="{{ newsItem.data.headerIimageUrl }}">
+                <h2>
+                    {{ newsItem.data.title }} <span class="date">{{newsItem.date | postDate }}<span>
+                </h2>
+                <div class="gradient"></div>
+            </div>
+
+            <div class="description-wrapper">
+                {{ newsItem.data.content | safe }}
+                <div class="gradient"></div>
+                <div class="link">..mehr</div>
+            </div>
+        </a>
+    {%- endfor -%}
+</ul>

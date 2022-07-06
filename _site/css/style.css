@@ -2,6 +2,7 @@
 @import './components/navbar.css';
 @import './components/release.css';
 @import './components/post.css';
+@import './components/news-item.css';
 
 body {
     background-color: var(--color-dark);
@@ -9,10 +10,19 @@ body {
     margin: 0px;
     color: var(--color-darker);
     animation: fade-in .3s ease-in-out;
+    perspective: 2px;
 }
 
 main {
     margin: 32px;
+}
+
+.hover {
+    transition: transform .1s ease-in-out;
+}
+
+.hover:is(:hover, :focus) {
+    transform: scale(1.03);
 }
 
 @keyframes fade-in {

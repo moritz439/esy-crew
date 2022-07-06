@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Marienplatzfest
-headerIimageUrl: url
+tags: news
+headerIimageUrl: assets/images/alle stage.jpg
 ---
 hier ging ja einiges alter

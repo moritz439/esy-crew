@@ -4,8 +4,9 @@
     height: 33vh;
     background-position: center;
     background-size: cover;
-    overflow: scroll;
+    overflow-x: auto;
     position: relative;
+   
 }
 
 .navbar-wrapper .navbar-elements {
@@ -27,6 +28,8 @@
     white-space: nowrap;
     padding: 16px;
     text-decoration: none;
-    font-size: larger;
+    font-size: x-large;
     color: var(--color-lighter);
+    font-weight: bold;
+    text-shadow: 0px 2px 5px var(--color-darker);
 }

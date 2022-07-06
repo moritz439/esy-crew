@@ -4,3 +4,9 @@ layout: layouts/base.njk
 
 <h1>{{ title }}</h1>
 {{ content | safe }}
+
+<ul>
+{%- for release in collections.release -%}
+  <li>{{ release.data.title }}: {{ release.data.previewIimageUrl }}</li>
+{%- endfor -%}
+</ul>
