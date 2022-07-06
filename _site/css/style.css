@@ -58,6 +58,7 @@ main {
 .reset-link-styles {
     color: var(--color-darker);
     text-decoration: none;
+    box-sizing: border-box;
 }
 
 @keyframes fade-in {
