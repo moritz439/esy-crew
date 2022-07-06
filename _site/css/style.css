@@ -7,10 +7,20 @@ body {
     background-color: var(--color-dark);
     box-sizing: content-box;
     margin: 0px;
-    color: var(--color-darker)
+    color: var(--color-darker);
+    animation: fade-in .3s ease-in-out;
 }
 
 main {
     margin: 32px;
 }
 
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
