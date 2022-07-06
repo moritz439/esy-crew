@@ -2,6 +2,9 @@
 layout: layouts/base.njk 
 ---
 
+<h1>{{ title }}</h1>
+{{ content | safe}}
+
 <div class="newsitems-preview-wrapper large-flex-grid">
     {%- for newsItem in collections.news -%}
         <a class="newsitem-element-wrapper hover reset-link-styles hover" href="{{ newsItem.url   }}">
