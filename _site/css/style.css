@@ -3,6 +3,7 @@
 @import './components/release.css';
 @import './components/post.css';
 @import './components/news.css';
+@import './components/variables.css';
 
 body {
     background-color: var(--color-dark);
@@ -68,3 +69,4 @@ main {
         opacity: 1;
     }
 }
+

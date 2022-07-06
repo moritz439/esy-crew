@@ -12,7 +12,7 @@
 
 .newsitems-preview-wrapper .newsitem-element-wrapper {
     flex: 1;
-    min-width: 250px;
+    min-width: 300px;
     max-width: 400px;
     max-height: 350px;
 

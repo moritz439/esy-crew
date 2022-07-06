@@ -1,11 +1,19 @@
 .release-items-preview-wrapper .release-element-wrapper {
     display: flex;
     gap: 8px;
+    flex: 1;
+    max-width: 700px;
+    min-width: 400px;
+}
+
+.release-items-preview-wrapper .image-wrapper {
+    width: 200px;
+    height: 200px;
 }
 
 .release-items-preview-wrapper .image-wrapper img {
-    height: 200px;
-    width: 200px;
+    height: 100%;
+    width: 100%;
 }
 
 .release-items-preview-wrapper .image-wrapper .gradient {
@@ -15,4 +23,25 @@
 .release-items-preview-wrapper .description-wrapper {
     display: flex;
     flex-direction: column;
+        gap: 8px;
+}
+
+.release-items-preview-wrapper .description-wrapper :is(h2, h3) {
+    margin: 0;
+}
+
+.release-items-preview-wrapper {
+padding-top: 32px;
+}
+
+@media only screen and (max-width: 700px) {
+    .release-element-wrapper {
+      flex-direction: column;
+      align-items: center;
+    }
+
+.release-items-preview-wrapper .image-wrapper {
+    width: 300px;
+    height: 300px;
+}
 }

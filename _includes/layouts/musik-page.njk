@@ -13,8 +13,8 @@ layout: layouts/base.njk
         <div class="gradient"></div>
       </div>
       <div class="description-wrapper">
-        <span>{{ release.data.title }}</span>
-        <span>{{ release.date | postDate }}</span>        
+        <h2>{{ release.data.title }}</h2>
+        <h3>{{ release.date | postDate }}</h3>        
       </div>
     </a>
   {%- endfor -%}
