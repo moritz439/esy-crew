@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Bald neues tape
 tags: news
-headerIimageUrl: assets/images/alle burger.jpg
+headerIimageUrl: /assets/images/alle burger.jpg
 ---
 Am 10.11 neues tape alter.
 

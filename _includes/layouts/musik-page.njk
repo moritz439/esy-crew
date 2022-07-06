@@ -1,12 +1,21 @@
---- 
+---
 layout: layouts/base.njk 
 ---
 
 <h1>{{ title }}</h1>
 {{ content | safe }}
 
-<ul>
-{%- for release in collections.release -%}
-  <li>{{ release.data.title }}: {{ release.data.previewIimageUrl }}</li>
-{%- endfor -%}
-</ul>
+<div class="release-items-preview-wrapper large-flex-grid">
+  {%- for release in collections.release -%}
+    <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url }}">
+      <div class="image-wrapper">
+        <img src="{{ release.data.previewIimageUrl }}">
+        <div class="gradient"></div>
+      </div>
+      <div class="description-wrapper">
+        <span>{{ release.data.title }}</span>
+        <span>{{ release.date | postDate }}</span>        
+      </div>
+    </a>
+  {%- endfor -%}
+</div>

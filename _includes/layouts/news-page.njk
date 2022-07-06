@@ -2,9 +2,9 @@
 layout: layouts/base.njk 
 ---
 
-<div class="newsitems-preview-wrapper">
+<div class="newsitems-preview-wrapper large-flex-grid">
     {%- for newsItem in collections.news -%}
-        <a class="newsitem-element-wrapper hover" href="{{ newsItem.url   }}">
+        <a class="newsitem-element-wrapper hover reset-link-styles hover" href="{{ newsItem.url   }}">
             <div class="image-wrapper">
                 <img src="{{ newsItem.data.headerIimageUrl }}">
                 <h2>

@@ -1,6 +1,18 @@
-.release-wrapper {
-
+.release-items-preview-wrapper .release-element-wrapper {
+    display: flex;
+    gap: 8px;
 }
-.release-preview-wrapper {
-    
+
+.release-items-preview-wrapper .image-wrapper img {
+    height: 200px;
+    width: 200px;
+}
+
+.release-items-preview-wrapper .image-wrapper .gradient {
+    background: radial-gradient( rgba(0, 0, 0, 0) 0%, var(--color-darker) 100%);
+}
+
+.release-items-preview-wrapper .description-wrapper {
+    display: flex;
+    flex-direction: column;
 }
