@@ -1,5 +1,5 @@
 ---
-title: Musik
+title: Unsere Musik
 layout: layouts/musik-page.njk
 ---
 
