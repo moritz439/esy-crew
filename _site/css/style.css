@@ -5,6 +5,8 @@
 @import './components/news.css';
 @import './components/variables.css';
 
+
+
 body {
     background-color: var(--color-dark);
     box-sizing: content-box;
@@ -15,13 +17,15 @@ body {
 }
 
 main {
-    margin: 32px;
+    padding: 32px;
+    max-width: 1200px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .image-wrapper {
     position: relative;
     overflow: hidden;
-    border-radius: 8px;
 }
 
 .image-wrapper img {
@@ -62,6 +66,12 @@ main {
     box-sizing: border-box;
 }
 
+.main-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
 @keyframes fade-in {
     from {
         opacity: 0;
@@ -71,4 +81,3 @@ main {
         opacity: 1;
     }
 }
-

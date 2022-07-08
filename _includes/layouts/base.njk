@@ -7,11 +7,15 @@
         <title>{{ site.title }}</title>
     </head>
     <body>
+    
         <header>
             <header>{% include "nav.njk" %}</header>
         </header>
+        <div class="main-wrapper">
         <main>
             {{ content | safe }}
         </main>
+            
+        </div>
     </body>
 </html>
