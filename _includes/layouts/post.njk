@@ -5,10 +5,10 @@ layout: layouts/base.njk
 <div class="news-page-wrapper">
     <div class="title-wrapper">
         <div class="image-wrapper">
-            <h1>{{ title }} 
-            
-            </h1>
-            
+            <div class="title">
+            <h1>{{ title }}</h1>
+            gepostet {{ page.date | postDate}}
+            </div>
             <img src="{{ headerIimageUrl }}">
             <div class="gradient"></div>
         </div>

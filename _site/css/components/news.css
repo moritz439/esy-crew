@@ -75,13 +75,6 @@
     position: relative;
 }
 
-.news-page-wrapper .title-wrapper h1 {
-    color: var(--color-darker);
-    z-index: 4;
-    position: relative;
-    text-shadow: 0px 2px 5px var(--color-dark);
-}
-
 .news-page-wrapper .image-wrapper {
     box-sizing: content-box;
 
@@ -90,11 +83,17 @@
     width: 100%;
     z-index: -1;
 }
-.news-page-wrapper .image-wrapper h1 {
+.news-page-wrapper .image-wrapper .title {
     position: absolute;
-    padding: 16px 18px 14px 32px;
     background-color: var(--color-dark);
     margin-top: 32px;
+    z-index: 3;
+    padding: 16px 16px 18px 32px;
+
+}
+
+.news-page-wrapper .title h1 {
+    margin: 0;
 }
 .news-page-wrapper .image-wrapper .gradient {
     opacity: .6;
