@@ -30,7 +30,7 @@
 }
 .newsitems-preview-wrapper .image-wrapper img {
     width: 100%;
-    height: 250px;
+    transition: height .1s;
 }
 
 .newsitems-preview-wrapper  .image-wrapper h2 {
