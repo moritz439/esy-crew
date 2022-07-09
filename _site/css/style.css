@@ -1,11 +1,20 @@
 @import './colors.css';
+@import './variables.css';
+@import './responsive.css';
 @import './components/navbar.css';
 @import './components/release.css';
 @import './components/post.css';
 @import './components/news.css';
-@import './components/variables.css';
 
+@font-face {
+    font-family: BebasNeue;
+    src: url(/assets/fonts/BebasNeue-Regular.ttf);
+}
 
+@font-face {
+    font-family: Trispace;
+    src: url(/assets/fonts/Trispace-Light.ttf);
+}
 
 body {
     background-color: var(--color-dark);
@@ -14,15 +23,21 @@ body {
     color: var(--color-darker);
     animation: fade-in .3s ease-in-out;
     perspective: 2px;
+    font-family: 'Trispace';
 }
 
 main {
     padding: 16px 32px;
-    max-width: 1200px;
+    max-width: var(--page-width-max);
     width: 100%;
     box-sizing: border-box;
+    animation: fade-in 1s;
 }
-
+.header {
+    font-family: 'BebasNeue';
+    letter-spacing: .2rem;
+    
+}
 .image-wrapper {
     position: relative;
     overflow: hidden;
@@ -75,9 +90,11 @@ main {
 @keyframes fade-in {
     from {
         opacity: 0;
+        transform: translateY(-10px);
     }
 
     to {
         opacity: 1;
     }
 }
+

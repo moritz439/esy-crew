@@ -1,4 +1,5 @@
 :root {
-    --width-mobile: 500px;
-
+    --breakpoint-small: 500px;
+    --breakpoint-small: 900px;
+    --page-width-max: 1200px;
 }

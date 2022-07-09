@@ -1,5 +1,8 @@
 .newsitems-preview-wrapper {
-    margin-top: 32px;
+    margin-top: 42px;
+    display: grid;
+    gap: 32px;
+
 }
 
 .newsitems-preview-wrapper h2 {
