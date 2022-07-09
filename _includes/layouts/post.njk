@@ -5,12 +5,16 @@ layout: layouts/base.njk
 <div class="news-page-wrapper">
     <div class="title-wrapper">
         <div class="image-wrapper">
-        <h1>{{ title }}</h1>
+            <h1>{{ title }} 
+            
+            </h1>
+            
             <img src="{{ headerIimageUrl }}">
             <div class="gradient"></div>
         </div>
     </div>
 
+    <div class="body-wrapper">
+        {{content | safe}}
+    </div>
 </div>
-
-{{content | safe}}
