@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <h1>{{ title }}</h1>
 {{ content | safe }}
 
-<div class="release-items-preview-wrapper large-flex-grid">
+<div class="release-items-preview-wrapper">
   {%- for release in collections.release -%}
     <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url }}">
       <div class="image-wrapper">
