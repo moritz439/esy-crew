@@ -1,5 +1,5 @@
 :root {
-    --breakpoint-small: 500px;
-    --breakpoint-small: 900px;
+    --breakpoint-small: 700px;
+    --breakpoint-small: 1100px;
     --page-width-max: 1200px;
 }

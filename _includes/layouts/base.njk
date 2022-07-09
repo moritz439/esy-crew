@@ -8,12 +8,16 @@
     </head>
     <body>
 
-        <header>{% include "nav.njk" %}</header>
+        <header>
+            {% include "nav.njk" %}
+        </header>
         <div class="main-wrapper">
             <main>
                 {{ content | safe }}
             </main>
-
         </div>
+        <footer>
+            {% include "footer.njk" %}
+        </footer>
     </body>
 </html>
