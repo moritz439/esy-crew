@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 32px;
+    gap: 16px;
 }
 
 .release-items-preview-wrapper .image-wrapper {
@@ -35,16 +35,8 @@
 }
 
 .release-items-preview-wrapper {
-
     padding: 32px 0;
-
     margin-top: 32px;
-    
-    /*display: flex;
-    gap: 80px 128px;
-    flex-wrap: wrap;
-    justify-content: center;
-    */
     display: grid; 
     gap: 64px 0;
 }
