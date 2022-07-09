@@ -12,6 +12,15 @@
     justify-content: center;
     box-sizing: content-box;
 }
+.navbar-elements svg g {
+    fill: var(--color-lighter);
+}
+.navbar-elements svg {
+    background-color: black;
+    height: 64px;
+    width: 64px;
+    display: block;
+}
 .navbar-wrapper .image-wrapper {
     position: absolute;
     width: 100%;

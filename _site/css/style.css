@@ -21,7 +21,6 @@ body {
     box-sizing: content-box;
     margin: 0px;
     color: var(--color-darker);
-    animation: fade-in .3s ease-in-out;
     perspective: 2px;
     font-family: 'Trispace';
 }
@@ -33,7 +32,7 @@ main {
     box-sizing: border-box;
     animation: fade-in 1s;
 }
-.header {
+.header, h1 {
     font-family: 'BebasNeue';
     letter-spacing: .2rem;
     
