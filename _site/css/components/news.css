@@ -1,5 +1,5 @@
 .newsitems-preview-wrapper {
-    margin-top: 42px;
+    margin-top: 64px;
     display: grid;
     gap: 64px;
 
@@ -19,9 +19,7 @@
 
 .newsitems-preview-wrapper .newsitem-element-wrapper {
     flex: 1;
-    min-width: 300px;
-    max-height: 350px;
-
+    height: 350px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
