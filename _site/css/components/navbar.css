@@ -13,7 +13,7 @@
 }
 
 .navbar-elements svg g {
-    fill: var(--color-lighter);
+    fill: var(--color-light);
     filter: drop-shadow(0px 3px 2px var(--color-darker));
 }
 
@@ -53,7 +53,7 @@
     white-space: nowrap;
     text-decoration: none;
     font-size: x-large;
-    color: var(--color-lighter);
+    color: var(--color-light);
     font-weight: bold;
     text-shadow: 0px 2px 5px var(--color-darker);
 }

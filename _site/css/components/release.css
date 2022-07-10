@@ -28,6 +28,10 @@
     gap: 8px;
 }
 
+.release-items-preview-wrapper .description-wrapper h3{
+    font-weight: normal;
+}
+
 .release-items-preview-wrapper .description-wrapper :is(h2, h3) {
     margin: 0;
 }
@@ -69,23 +73,17 @@
 .release-page-wrapper .social-media-links-wrapper {
     margin-top: auto;
     display: flex;
+    flex-wrap: wrap;
     gap: 16px;
-
 }
 
 .release-page-wrapper .link {
     display: flex;
     flex-flow: row;
     align-items: center;
-    padding: 16px 20px;
     border-radius: 8px;
     gap: 8px;
     font-weight: bold;
-    background-color: var(--color-lighter);
-}
-
-.release-page-wrapper {
-
 }
 
 .release-page-wrapper .header-wrapper {

@@ -1,6 +1,14 @@
+
 :root {
     --color-darker: #3F2E1B;
     --color-dark: #A3946F;
-    --color-light: #A08C84;
-    --color-lighter: #DDBE95;
+    --color-light: #DDBE95;
 }
+
+/*
+:root {
+    --color-darker: #080705ff;
+    --color-dark: #40434eff;
+    --color-light: #a3a5c3ff;
+}
+*/
