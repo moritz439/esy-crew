@@ -1,0 +1,13 @@
+.spenden-wrapper {
+    position: relative;
+    opacity: .8;
+}
+.spenden-wrapper .spenden-button {
+    margin-top: 16px;
+    transform: rotate(-10deg);
+    top: 8px;
+    right: 0;
+    border: 1px solid var(--color-darker);
+    padding: 4px;
+    border-radius: 4px;
+}

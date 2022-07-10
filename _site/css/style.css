@@ -6,6 +6,7 @@
 @import './components/post.css';
 @import './components/news.css';
 @import './components/footer.css';
+@import './components/spenden.css';
 
 @font-face {
     font-family: BebasNeue;
