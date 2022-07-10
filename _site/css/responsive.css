@@ -13,7 +13,6 @@
     }
     .release-page-wrapper {
         grid-template-columns: 1fr;
-        grid-template-columns: 1fr 1fr 1fr;
 
         grid-template-areas:
         "header-wrapper"
@@ -45,6 +44,7 @@
         height: 280px;
     }
     .release-page-wrapper {
+        grid-template-rows: initial;
         grid-template-columns: 1fr 1fr .6fr;
         grid-template-areas:
         "header-wrapper header-wrapper spenden-wrapper"
