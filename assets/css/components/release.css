@@ -18,6 +18,7 @@
 }
 
 .release-items-preview-wrapper .image-wrapper .gradient {
+    opacity: .6;
     background: radial-gradient(rgba(0, 0, 0, 0) 0%, var(--color-darker) 100%);
 }
 
