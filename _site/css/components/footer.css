@@ -25,12 +25,14 @@ footer {
 .footer-wrapper .social-media-item {
     display: flex;
     align-items: center;
+    gap: 4px;
+    font-weight: bold;
 }
 
 
 .footer-wrapper svg {
-    width: 28px;
-    height: 28px;
+    width: 24px;
+    height: 24px;
 }
 
 footer .line {

@@ -91,7 +91,7 @@
 
     .release-page-wrapper {
         grid-template-rows: initial;
-        grid-template-columns: 1fr 1fr .6fr;
+        grid-template-columns: 1fr 1fr .8fr;
         grid-template-areas:
             "header-wrapper header-wrapper spenden-wrapper"
             "content-wrapper content-wrapper content-wrapper";

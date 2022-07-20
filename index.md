@@ -1,8 +1,6 @@
 ---
-title: Was geht bro
-layout: layouts/news-page.njk
+    layout: layouts/news-page.njk
 ---
 
-
-Willkommen bei uns.
+# Was
 Hier könnt ihr Musik sehen und downloaden. Außerdem spendet. Nice thx.
