@@ -19,6 +19,7 @@
     src: url(../fonts/Trispace-Light.ttf);
 }
 
+
 body {
     background-color: var(--color-dark);
     box-sizing: content-box;
