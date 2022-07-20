@@ -12,9 +12,12 @@
     line-height: 1em;
     
 }
+.contact-items-wrapper .contact-item b {
+    text-decoration: underline;
+}
 
 .contact-items-wrapper .contact-item .header-wrapper h2 {
-    margin:  0 0 16px 0;
+    margin:  8px 0 16px 0;
 }
 .contact-items-wrapper .contact-item .header-wrapper p {
     margin:  0 0 8px 0;
