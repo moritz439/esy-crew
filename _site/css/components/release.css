@@ -59,12 +59,11 @@
 .release-page-wrapper .image-wrapper {
     width: 300px;
     height: 300px;
-
     max-width: 300px;
     max-height: 300px;
 
     box-shadow: 0px 5px 30px -8px var(--color-darker);
-    border-radius: 4px;
+    border-radius: 10px;
 
 }
 
