@@ -57,8 +57,12 @@
 }
 
 .release-page-wrapper .image-wrapper {
-    min-width: 300px;
+    width: 300px;
     height: 300px;
+
+    max-width: 300px;
+    max-height: 300px;
+
     box-shadow: 0px 5px 30px -8px var(--color-darker);
     border-radius: 4px;
 
@@ -67,7 +71,13 @@
 .release-page-wrapper .description-wrapper {
     display: flex;
     flex: 1;
+    gap: 16px;
     flex-flow: column;
+    
+}
+
+.release-page-wrapper .description-wrapper h1 {
+    margin: 0;
 }
 
 .release-page-wrapper .social-media-links-wrapper {
@@ -75,6 +85,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
+    padding-top: 16px;
 }
 
 .release-page-wrapper .link {
