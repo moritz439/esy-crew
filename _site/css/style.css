@@ -63,7 +63,8 @@ main {
 }
 
 .hover {
-    transition: transform .1s ease-in-out;
+    transition: transform .3s;
+    transition-timing-function: cubic-bezier(0.000, 0.105, 0.000, 1.010);
 }
 
 .hover:is(:hover, :focus) {
