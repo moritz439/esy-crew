@@ -4,7 +4,7 @@ layout: layouts/base.njk
 <div class="release-page-wrapper">
     <div class="header-wrapper">
         <div class="image-wrapper">
-            <img src="{{ previewIimageUrl }}">
+            <img src="{{ previewIimageUrl | url }}">
         </div>
         <div class="description-wrapper">
             <h1>{{ title }}</h1>
@@ -28,7 +28,7 @@ layout: layouts/base.njk
                         Spotify
                     </span>
                 </a>
-                <a class="link reset-link-styles" href="{{ downloadLink }}">
+                <a class="link reset-link-styles" href="{{ downloadLink | url }}">
                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="-2 -2 24 24" width="24" fill="currentColor">
                         <path d="M9.293 14.707a.997.997 0 0 0 1.414 0l4.243-4.243a1 1 0 1 0-1.414-1.414L11 11.586V6a1 1 0 0 0-2 0v5.586L6.464 9.05a1 1 0 1 0-1.414 1.414l4.243 4.243zM10 20C4.477 20 0 15.523 0 10S4.477 0 10 0s10 4.477 10 10-4.477 10-10 10z"></path>
                     </svg>

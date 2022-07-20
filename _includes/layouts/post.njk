@@ -9,12 +9,12 @@ layout: layouts/base.njk
             <h1>{{ title }}</h1>
             gepostet {{ page.date | postDate}}
             </div>
-            <img src="{{ headerIimageUrl }}">
+            <img src="{{ headerIimageUrl | url }}">
             <div class="gradient"></div>
         </div>
     </div>
 
     <div class="body-wrapper">
-        {{content | safe}}
+        {{ content | safe}}
     </div>
 </div>

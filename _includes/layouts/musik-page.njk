@@ -6,9 +6,9 @@ layout: layouts/base.njk
 
 <div class="release-items-preview-wrapper">
   {%- for release in collections.release -%}
-    <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url }}">
+    <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url | url}}">
       <div class="image-wrapper">
-        <img src="{{ release.data.previewIimageUrl }}">
+        <img src="{{ release.data.previewIimageUrl | url }}">
         <div class="gradient"></div>
       </div>
       <div class="description-wrapper">
