@@ -1,4 +1,4 @@
-name: Build Eleventy
+name: Build Esy Crew Page
 
 on:
   push:
