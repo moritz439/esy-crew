@@ -49,6 +49,7 @@
 
 .image-wrapper .date {
     font-size: small;
+    white-space: nowrap;
 }
 
 .newsitems-preview-wrapper .description-wrapper .gradient {
