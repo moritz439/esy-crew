@@ -1,0 +1,42 @@
+footer {
+    width: 100%;
+    box-sizing: content-box;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    padding-top: 32px;
+}
+.footer-wrapper {
+    max-width: var(--page-width-max);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 0 32px 32px 32px;
+    box-sizing: border-box;
+}
+
+.footer-wrapper .social-media-wrapper {
+    display: flex;
+    gap: 16px;
+    padding-top: 16px;
+}
+
+.footer-wrapper .social-media-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-weight: bold;
+}
+
+
+.footer-wrapper svg {
+    width: 24px;
+    height: 24px;
+}
+
+footer .line {
+    width: 100%;
+    opacity: .4;
+    border-top: 1px solid var(--color-darker);
+}

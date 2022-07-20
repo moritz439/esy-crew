@@ -1,0 +1,99 @@
+@media only screen and (min-width: 0px) {
+
+    .release-items-preview-wrapper,
+    .newsitems-preview-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .navbar-elements svg {
+        width: 80px;
+        height: 80px;
+        min-width: 80px;
+        min-height: 80px;
+    }
+
+    .newsitems-preview-wrapper .image-wrapper img {
+        height: 200px;
+    }
+
+    .release-page-wrapper {
+        grid-template-columns: 1fr;
+
+        grid-template-areas:
+            "header-wrapper"
+            "content-wrapper"
+            "spenden-wrapper";
+    }
+    .release-page-wrapper .header-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+    .release-page-wrapper .description-wrapper {
+        padding: 0;
+        align-items: center;
+        text-align: center;
+    }
+
+    .release-page-wrapper .social-media-links-wrapper {
+        justify-content: center;
+    }
+
+    .contact-items-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (min-width: 700px) {
+
+    .newsitems-preview-wrapper,
+    .release-items-preview-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    .release-page-wrapper .header-wrapper {
+        flex-direction: row;
+        align-items: initial;
+
+    }
+    .release-page-wrapper .description-wrapper {
+        padding: 16px 0;
+        align-items: flex-start;
+        text-align: left;
+    }
+    .release-page-wrapper .social-media-links-wrapper {
+        justify-content: initial;
+    }
+
+    .navbar-elements svg {
+        width: 128px;
+        height: 128px;
+    }
+
+    .newsitems-preview-wrapper .image-wrapper img {
+        height: 250px;
+    }
+
+    .contact-items-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+@media only screen and (min-width: 1100px) {
+    .release-items-preview-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .newsitems-preview-wrapper .image-wrapper img {
+        height: 280px;
+    }
+
+    .release-page-wrapper {
+        grid-template-rows: initial;
+        grid-template-columns: 1fr 1fr .8fr;
+        grid-template-areas:
+            "header-wrapper header-wrapper spenden-wrapper"
+            "content-wrapper content-wrapper content-wrapper";
+    }
+}
