@@ -24,6 +24,9 @@
             "content-wrapper"
             "spenden-wrapper";
     }
+    .release-page-wrapper .header-wrapper {
+        flex-direction: column;
+    }
 
     .contact-items-wrapper {
         grid-template-columns: repeat(1, 1fr);
@@ -35,6 +38,11 @@
     .newsitems-preview-wrapper,
     .release-items-preview-wrapper {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    .release-page-wrapper .header-wrapper {
+        flex-direction: row;
     }
 
     .navbar-elements svg {
