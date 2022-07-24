@@ -9,6 +9,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addWatchTarget('css/');
     eleventyConfig.addWatchTarget('assets/');
 
+    eleventyConfig.ignores.add("README.md");
+    eleventyConfig.ignores.add("_vorlagen");
+
     eleventyConfig.addFilter("postDate", (dateObj) => {
       return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
     });
