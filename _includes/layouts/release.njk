@@ -7,7 +7,8 @@ layout: layouts/base.njk
             <img src="{{ previewIimageUrl | url }}">
         </div>
         <div class="description-wrapper">
-            <h1>{{ title }}</h1>
+            <h1>{{ title }}<span>{{ addendum }}</span></h1>
+            <h2>{{ artist }} </h2>
             {%- for track in tracks -%}
                 {{ track }}<br>
             {%- endfor -%}

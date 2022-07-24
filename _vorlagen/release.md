@@ -1,6 +1,7 @@
 ---
 # Ab Hier editieren
 title: NAME VON RELEASE
+artist: NAME VON ARTIST
 tracks:
  - NAME VON TRACK 1
  - NAME VON TRACK 2

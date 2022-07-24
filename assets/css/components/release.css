@@ -35,6 +35,17 @@
 
 .release-items-preview-wrapper .description-wrapper :is(h2, h3) {
     margin: 0;
+    text-align: center;
+}
+
+.release-page-wrapper h1 span { 
+    padding-left: 8px;
+    font-size: 24px;
+    white-space: nowrap;
+}
+
+.release-items-preview-wrapper h2 span { 
+    font-weight: normal;
 }
 
 .release-items-preview-wrapper {
@@ -75,7 +86,7 @@
     
 }
 
-.release-page-wrapper .description-wrapper h1 {
+.release-page-wrapper .description-wrapper :is(h1, h2) {
     margin: 0;
 }
 
