@@ -3,7 +3,7 @@ name: Build Esy Crew Page
 on:
   push:
     branches:
-      - master
+      - crewbranch
 
 jobs:
   build:
