@@ -2,5 +2,5 @@
     layout: layouts/news-page.njk
 ---
 
-# Willkommen bei uns
-Hier könnt ihr Musik sehen und downloaden. Außerdem spendet. Nice thx.
+# Up Next
+Was geht. Hier kannst du shen was bei uns abgeht, unsere Musik downloaden und mit uns in Kontakt treten.
