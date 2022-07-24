@@ -39,7 +39,7 @@
     bottom: 0;
     left: 0;
     padding: 16px;
-    color: var(--color-light);
+    color: var(--color-dark);
     text-shadow: 0px 2px 5px var(--color-darker);
 }
 
@@ -70,9 +70,11 @@
     font-weight: bold;
     color: var(--color-dark);
 }
+
 .news-page-wrapper {
     padding-top: 16px;
 }
+
 .news-page-wrapper .title-wrapper {
     position: relative;
 }

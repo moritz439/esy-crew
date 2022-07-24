@@ -1,7 +1,7 @@
 ---
 # Ab Hier editieren
 title: Flightmode Festival
-headerIimageUrl: /assets/images/alle burger.jpg
+headerIimageUrl: /assets/images/flightmode.jpeg
 
 # Ab hier nicht mehr
 layout: layouts/post.njk
@@ -10,7 +10,7 @@ tags: news
 
 
 
-Das Stuttgarter Kollektiv Trabanten, das Kollektiv am Waldrand und das Kollektiv ESY haben sich zusammengeschlossen und befinden sich aktuell in der Planung und
+Das Stuttgarter Kollektiv **Trabanten**, das **Kollektiv am Waldrand** und das Kollektiv **ESY** haben sich zusammengeschlossen und befinden sich aktuell in der Planung und
 Umsetzung eines zweitägigen Festivals, das vom 06.08.-07.08.22 auf dem Dach des
 Züblin-Parkhauses stattfindet und die Stuttgarter Kulturlandschaft bereichern soll.
 
@@ -22,3 +22,4 @@ entspannten House-Beats, kühlen Getränken und Snacks. Anschließend geht das F
 
  Der zweite Festivaltag (07.08.22) heißt seine Gäste ab 11 Uhr mit einem Begrüßungs-Sekt willkommen. Die Besucher:innen erwartet auf dem Dach des Züblin-Parkhauses ein Floh-/ und Kreativmarkt und eine eigens für das Festival kuratierte Kunstausstellung. Die Musik wird, wie auch am ersten Tag über die ausgehändigten Bluetooth-Kopfhörer empfangen. Hier können die Besucher:innen zwischen vier verschiedenen Kanälen switchen und ihren eigenen Rooftopsound auswählen. Abgerundet wird das zweitägige Event ab circa 20 Uhr mit einem Sommerkino-Abend im Liegestuhl.
 
+Hier gehts zu den **Tickets:**
