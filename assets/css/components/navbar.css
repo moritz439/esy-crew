@@ -30,7 +30,7 @@
 }
 
 .navbar-wrapper .gradient {
-    opacity: .6;
+    opacity: .7;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 40%, var(--color-darker) 100%);
 }
 
