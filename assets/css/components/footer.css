@@ -38,5 +38,5 @@ footer {
 footer .line {
     width: 100%;
     opacity: .4;
-    border-top: 1px solid var(--color-darker);
+    border-top: 1px solid var(--color-dark);
 }

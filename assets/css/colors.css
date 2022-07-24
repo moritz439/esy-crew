@@ -1,14 +1,15 @@
-
+/*
 :root {
     --color-darker: #3F2E1B;
     --color-dark: #928564;
     --color-light: #DDBE95;
 }
-
-/*
-:root {
-    --color-darker: #080705ff;
-    --color-dark: #40434eff;
-    --color-light: #a3a5c3ff;
-}
 */
+
+:root {
+--color-dark: #D4A387ff;
+--color-light: #E6D0C3ff;
+--color-darker: rgb(41, 33, 16);
+--color-darkest: rgb(17, 14, 7);
+
+}

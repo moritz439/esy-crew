@@ -3,7 +3,6 @@
 @import './responsive.css';
 @import './components/navbar.css';
 @import './components/release.css';
-@import './components/post.css';
 @import './components/news.css';
 @import './components/footer.css';
 @import './components/spenden.css';
@@ -21,10 +20,10 @@
 
 
 body {
-    background-color: var(--color-dark);
+    background-color: var(--color-darker);
     box-sizing: content-box;
     margin: 0px;
-    color: var(--color-darker);
+    color: var(--color-dark);
     perspective: 2px;
     font-family: 'Trispace';
 }
@@ -80,7 +79,7 @@ main {
 }
 
 .reset-link-styles {
-    color: var(--color-darker);
+    color: var(--color-dark);
     text-decoration: none;
     box-sizing: border-box;
 }
