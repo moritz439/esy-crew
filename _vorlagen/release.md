@@ -1,6 +1,7 @@
 ---
 # Ab Hier editieren
 title: NAME VON RELEASE
+addendum: Test
 artist: NAME VON ARTIST
 tracks:
  - NAME VON TRACK 1
