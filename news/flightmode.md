@@ -22,4 +22,4 @@ entspannten House-Beats, kühlen Getränken und Snacks. Anschließend geht das F
 
  Der zweite Festivaltag (07.08.22) heißt seine Gäste ab 11 Uhr mit einem Begrüßungs-Sekt willkommen. Die Besucher:innen erwartet auf dem Dach des Züblin-Parkhauses ein Floh-/ und Kreativmarkt und eine eigens für das Festival kuratierte Kunstausstellung. Die Musik wird, wie auch am ersten Tag über die ausgehändigten Bluetooth-Kopfhörer empfangen. Hier können die Besucher:innen zwischen vier verschiedenen Kanälen switchen und ihren eigenen Rooftopsound auswählen. Abgerundet wird das zweitägige Event ab circa 20 Uhr mit einem Sommerkino-Abend im Liegestuhl.
 
-Hier gehts zu den **Tickets:**
+Hier gehts zu den  [Tickets.](https://kulturbuero-sorglos.tickettoaster.de/produkte/49111-tickets-flightmode-festival-kulturdeck-stuttgart-auf-dem-parkhaus-zueblin-sonnendeck-stuttgart-am-06-08-2022)
