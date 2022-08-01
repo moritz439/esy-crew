@@ -39,6 +39,18 @@ main {
     box-sizing: border-box;
     animation: fade-in 1s;
 }
+
+p a {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--color-dark);
+}
+
+p a::after {
+    content: '🔗';
+    font-size: small;
+}
+
 .header, h1 {
     font-family: 'BebasNeue';
     letter-spacing: .2rem;
