@@ -13,7 +13,7 @@ tracks:
 spotifyLink: https://open.spotify.com/album/4lguZpXKuTdTFmYRCxtW5Q
 appleMusicLink: https://music.apple.com/us/album/enroute-ep/1615312754
 downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
-previewIimageUrl: /assets/images/NAMEVOMBILD.jpg
+previewIimageUrl: /assets/images/Enroute.jpg
 downloadUrl: hier download url
 
 # Ab hier nicht mehr
