@@ -33,7 +33,7 @@ body p, body li {
 }
 
 main {
-    padding: 16px 32px 0 32px;
+    padding: 32px;
     max-width: var(--page-width-max);
     width: 100%;
     box-sizing: border-box;
