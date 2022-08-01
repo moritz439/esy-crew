@@ -1,5 +1,5 @@
 .newsitems-preview-wrapper {
-    margin-top: 64px;
+    margin: 64px 0 24px 0;
     display: grid;
     gap: 64px;
 
@@ -74,7 +74,7 @@
 }
 
 .news-page-wrapper {
-    padding-top: 16px;
+    padding-top: 32px;
 }
 
 .news-page-wrapper .title-wrapper {
