@@ -4,7 +4,6 @@ footer {
     display: flex;
     align-items: center;
     flex-flow: column;
-    padding-top: 32px;
 }
 .footer-wrapper {
     max-width: var(--page-width-max);
