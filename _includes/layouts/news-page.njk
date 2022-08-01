@@ -16,7 +16,7 @@ layout: layouts/base.njk
             </div>
 
             <div class="description-wrapper">
-                {{ newsItem.data | safe }}
+                {{ newsItem.data.content | textPreview }}
                 <div class="gradient"></div>
                 <div class="link">...mehr</div>
             </div>

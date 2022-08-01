@@ -10,7 +10,7 @@ layout: layouts/base.njk
             <h1>{{ title }}<span>{{ addendum }}</span></h1>
             <h2>{{ artist }} </h2>
             {%- for track in tracks -%}
-                {{ track }}<br>
+                - {{ track }}<br>
             {%- endfor -%}
             <div class="social-media-links-wrapper">
                 <a class="link reset-link-styles" href="{{ appleMusicLink }}">

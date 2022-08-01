@@ -12,6 +12,8 @@
 .newsitems-preview-wrapper .description-wrapper {
     flex: 1;
     overflow: hidden;
+    line-height: 1.5em;
+    padding: 16px;
     box-sizing: content-box;
     position: relative;
 }
