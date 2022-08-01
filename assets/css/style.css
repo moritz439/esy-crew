@@ -28,7 +28,7 @@ body {
     font-family: 'Trispace';
 }
 
-body p {
+body p, body li {
     line-height: 1.5em;
 }
 
@@ -40,15 +40,16 @@ main {
     animation: fade-in 1s;
 }
 
-p a {
+p a, li a {
     text-decoration: none;
     font-weight: bold;
     color: var(--color-dark);
 }
 
-p a::after {
+p a::after, li a::after {
     content: '🔗';
     font-size: small;
+    padding-left: 8px;
 }
 
 .header, h1 {
