@@ -1,7 +1,7 @@
 ---
 # Ab Hier editieren
 title: ESY LIVE 2022
-headerIimageUrl: /assets/images/alle burger.jpg
+headerIimageUrl: /assets/images/yungoelephant.jpeg
 
 date: 2022-08-01
 
