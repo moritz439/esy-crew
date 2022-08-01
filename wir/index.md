@@ -3,7 +3,7 @@ layout: layouts/crew-page.njk
 ---
 
 # Die Easy Crew
-
+## Upcoming
 Geboren und aufgewachsen in Stuttgart, lernen sich Slowmoe und Yung Obama
 bereits in der Schule kennen. Ihre dort entstehende Freundschaft fußt zu Beginn auf der geteilten Leidenschaft für Graffiti sowie den gesamten HipHop-Kosmos und
 später auf der gemeinsamen Begeisterung für Rap.
@@ -26,7 +26,7 @@ arbeiten. Slowmoe veröffentlicht in den Jahren 2018-2020 eine Reihe an Singles,
 Veröffentlichungen zunehmend positive Kritik und schaffen eine solide Basis für
 anstehende Projekte.
 
-
+## Werk
 Zu Beginn des Jahres 2021 entsteht „SOTA“ (State Of The Art). Dies ist nicht nur
 das erste Album des Rappers Slowmoe, sondern auch des €$¥-Camps. Die
 Begeisterung hinsichtlich dieser Veröffentlichung zieht sich auch durch die
@@ -36,10 +36,10 @@ HipHop-Szene und verschafft ihnen die Möglichkeit im Sommer 2021 auf diversen
 Bühnen der Stadt auch ihre Live-Performance-Qualitäten unter Beweis zu stellen.
 Dabei bespielen sie erstmalig auch auf größeren Veranstaltungen wie z.B. „Eine
 kleine Abendmusik“ oder auch dem „Bunter Beton Festival“. Direkt im Anschluss
-erscheint im Herbst desselben Jahres das Kollektiv-Projekt „Crewtape Vol.1“ (prod.
-NoTypeBeats). Hier sind nicht nur die Rapper Yung Obama und Slowmoe, sondern
-auch weitere €$¥-Member und Freunde des Kollektivs wie 9T9, LDE, Dust72,
+erscheint im Herbst desselben Jahres das Kollektiv-Projekt „Crewtape Vol.1“ (prod. NoTypeBeats). Hier sind nicht nur die Rapper Yung Obama und Slowmoe, sondern auch weitere €$¥-Member und Freunde des Kollektivs wie 9T9, LDE, Dust72,
 Goldjunge , oder NoTypeBeats beteiligt.
+
+## Und sonst so
 Neben Cyphers mit verschiedenen Musiker:innen aus Stuttgart, die aktuell
 regelmäßig released werden, stehen weitere Featureparts, Tapes, Singles und
 Musikvideos bereits in der Pipeline. Just veröffentlichte Yung Obama seine EP
