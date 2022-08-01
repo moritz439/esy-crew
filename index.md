@@ -3,4 +3,4 @@
 ---
 
 # Up Next
-Was geht. Hier kannst du shen was bei uns abgeht, unsere Musik downloaden und mit uns in Kontakt treten.
+Was geht. Hier kannst du sehen was bei uns abgeht, unsere Musik downloaden und mit uns in Kontakt treten.

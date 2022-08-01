@@ -1,7 +1,7 @@
 ---
 # Ab Hier editieren
 title: Siempre 
-addendum: (prod. by NoTypeBeats)
+addendum: prod. by NoTypeBeats
 artist: 9T9 
 spotifyLink: https://open.spotify.com/album/7JcAgWG42FPfMd3ELVqhmQ?si=1w0TjHRLRPmKENBhQymIPQ
 appleMusicLink: https://www.apple.com/apple-music/
