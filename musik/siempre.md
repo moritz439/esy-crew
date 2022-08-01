@@ -9,6 +9,8 @@ downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/siempre.jpg
 downloadUrl: hier download url
 
+date: "2002-01-01"
+
 # Ab hier nicht mehr
 layout: layouts/release.njk
 tags: release

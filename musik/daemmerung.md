@@ -10,6 +10,10 @@ downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/daemmerung.jpg
 downloadUrl: hier download url
 
+date: "1999-01-01"
+
+
+
 # Ab hier nicht mehr
 layout: layouts/release.njk
 tags: release

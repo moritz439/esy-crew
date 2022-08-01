@@ -3,6 +3,8 @@
 title: Flightmode Festival
 headerIimageUrl: /assets/images/flightmode.jpeg
 
+date: 2022-07-30
+
 # Ab hier nicht mehr
 layout: layouts/post.njk
 tags: news

@@ -5,7 +5,7 @@ layout: layouts/base.njk
 {{ content | safe}}
 
 <div class="newsitems-preview-wrapper">
-    {%- for newsItem in collections.news -%}
+    {%- for newsItem in collections.news | reverse -%}
         <a class="newsitem-element-wrapper hover reset-link-styles hover" href="{{ newsItem.url | url }}">
             <div class="image-wrapper">
                 <img src="{{ newsItem.data.headerIimageUrl | url }}">
@@ -16,7 +16,7 @@ layout: layouts/base.njk
             </div>
 
             <div class="description-wrapper">
-                {{ newsItem.data.content | safe }}
+                {{ newsItem.data | safe }}
                 <div class="gradient"></div>
                 <div class="link">...mehr</div>
             </div>
