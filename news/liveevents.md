@@ -1,7 +1,7 @@
 ---
 # Ab Hier editieren
 title: ESY LIVE 2022
-headerIimageUrl: /assets/images/yungoelephant.jpg
+headerIimageUrl: /assets/images/yungoelephant.jepg
 
 # Ab hier nicht mehr
 layout: layouts/post.njk
