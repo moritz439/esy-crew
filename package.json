@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "build:prod": "env NODE_ENV=production npx eleventy --pathprefix 'esy-crew'",
+    "build:prod": "env NODE_ENV=production npx eleventy",
     "start": "eleventy --serve"
   },
   "keywords": [],
