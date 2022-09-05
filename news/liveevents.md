@@ -3,6 +3,9 @@
 title: ESY LIVE 2022
 headerIimageUrl: /assets/images/yungoelephant.jpeg
 
+date: 2022-08-01
+
+
 # Ab hier nicht mehr
 layout: layouts/post.njk
 tags: news

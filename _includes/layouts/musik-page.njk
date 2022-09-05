@@ -5,7 +5,7 @@ layout: layouts/base.njk
 {{ content | safe }}
 
 <div class="release-items-preview-wrapper">
-  {%- for release in collections.release -%}
+  {%- for release in collections.release | reverse -%}
     <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url | url}}">
       <div class="image-wrapper">
         <img src="{{ release.data.previewIimageUrl | url }}">

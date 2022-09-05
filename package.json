@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "build:prod": "env NODE_ENV=production npx eleventy --pathprefix 'esy-crew'",
+    "build:prod": "env NODE_ENV=production npx eleventy",
     "start": "eleventy --serve"
-
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^1.0.1",
+    "sanitize-html": "^2.7.1"
   }
 }

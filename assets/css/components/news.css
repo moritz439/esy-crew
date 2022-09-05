@@ -1,5 +1,5 @@
 .newsitems-preview-wrapper {
-    margin-top: 64px;
+    margin: 64px 0 24px 0;
     display: grid;
     gap: 64px;
 
@@ -12,6 +12,8 @@
 .newsitems-preview-wrapper .description-wrapper {
     flex: 1;
     overflow: hidden;
+    line-height: 1.5em;
+    padding-top: 16px;
     box-sizing: content-box;
     position: relative;
 }
@@ -72,7 +74,6 @@
 }
 
 .news-page-wrapper {
-    padding-top: 16px;
 }
 
 .news-page-wrapper .title-wrapper {

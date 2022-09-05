@@ -11,6 +11,10 @@ downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/BleibtSo.jpg
 downloadUrl: hier download url
 
+## Format YYYY.MM.DD
+date: 2022-08-01
+
+
 # Ab hier nicht mehr
 layout: layouts/release.njk
 tags: release
