@@ -19,7 +19,9 @@ tags: news
 - <del>09.07 Afrika Fest</del>
 - <del>16.07 Jugendhaus Fellbach</del>
 - <del>23.07 Bunter Beton</del>
+- <del>03.09 New Normal Wagenhallen</del>
 ### und jetzt...
-- [03.09 New Normal Wagenhallen](http://kunstverein-wagenhalle.de/events/new-normal-2022/)
+
 - [11.09 Urban Convention LKA](https://lka-longhorn.de/events/urban-convention-lifestyle-messe/)
+- [17.09 Festival am Waldrand](https://instagram.com/kollektivamwaldrand?igshid=YmMyMTA2M2Y=)
 - [25.09 Stöckachfest](https://www.stoeckach29.de/newsleser/282.html)
