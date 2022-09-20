@@ -1,14 +1,16 @@
 ---
 # Ab Hier editieren
-title: Bleibt so
-addendum: prod. by NoTypeBeats
-artist: Slowmoe
+title: NAME VON RELEASE
+addendum: Test
+artist: NAME VON ARTIST
 tracks:
-
-spotifyLink: https://open.spotify.com/album/6lhjQ4b2nqG8g9aKkZBiic?si=MLriiaBiR4WYk7kzy3quNw
-appleMusicLink: https://music.apple.com/de/album/bleibt-so-feat-notypebeats-single/1625719403
+ - NAME VON TRACK 1
+ - NAME VON TRACK 2
+ - NAME VON TRACK 3
+spotifyLink: https://www.spotify.com/de/
+appleMusicLink: https://www.apple.com/apple-music/
 downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
-previewIimageUrl: /assets/images/BleibtSo.jpg
+previewIimageUrl: /assets/images/NAMEVOMBILD.jpg
 downloadUrl: hier download url
 
 ## Format YYYY.MM.DD
