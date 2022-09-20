@@ -12,7 +12,7 @@ tracks:
  - laufen.fliegen
 spotifyLink: https://open.spotify.com/album/4lguZpXKuTdTFmYRCxtW5Q
 appleMusicLink: https://music.apple.com/us/album/enroute-ep/1615312754
-downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
+downloadLink: https://www.dropbox.com/sh/g5i0czsvloehxhf/AACQ5asLS9-P_Wps6KyMFfjRa?dl=0
 previewIimageUrl: /assets/images/Enroute.jpg
 downloadUrl: hier download url
 

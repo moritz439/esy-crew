@@ -6,7 +6,7 @@ artist: Slowmoe
 
 spotifyLink: https://www.spotify.com/de/
 appleMusicLink: https://www.apple.com/apple-music/
-downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
+downloadLink: https://www.dropbox.com/sh/rahf4emdkayyfba/AAB85rWWKAMAxELVjGcMhaxwa?dl=0
 previewIimageUrl: /assets/images/daemmerung.jpg
 downloadUrl: hier download url
 
