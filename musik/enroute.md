@@ -16,7 +16,7 @@ downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/Enroute.jpg
 downloadUrl: hier download url
 
-date: "2000-01-01"
+date: "2022-04-22"
 
 # Ab hier nicht mehr
 layout: layouts/release.njk
