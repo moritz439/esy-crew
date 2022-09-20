@@ -1,7 +1,7 @@
 ---
 # Ab Hier editieren
 title: S.O.T.A
-addendum: prod. by NoTypeBeats & Neumaxx
+addendum: prod. NeumaxX
 artist: Slowmoe
 tracks:
 - Skit (Intro)
