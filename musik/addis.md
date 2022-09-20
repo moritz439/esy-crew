@@ -12,7 +12,7 @@ previewIimageUrl: /assets/images/Addis-Cover.jpg
 downloadUrl: hier download url
 
 ## Format YYYY.MM.DD
-date: "2020-30-10"
+date: "2020-10-30"
 
 
 # Ab hier nicht mehr
