@@ -22,4 +22,6 @@ tags: release
 ---
 
 Endlich Arbeitslos ist nur auf Youtube verfügbar!
-Link: [Link text Here](https://www.youtube.com/watch?v=U04X_ydzO_w)
+Link: [Edlich Arbeitslos](https://www.youtube.com/watch?v=U04X_ydzO_w)
+
+ESY Productions

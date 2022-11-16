@@ -20,4 +20,4 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Bleibt so /Slowmoe /NoTypeBeats
+ESY Production

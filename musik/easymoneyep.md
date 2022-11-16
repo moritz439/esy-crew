@@ -29,4 +29,4 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Die Easy Money EP bietet einen Einblick in verschiedenste Momente und Erfahrungen eines jungen Slowmoe. 
+ESY Production
