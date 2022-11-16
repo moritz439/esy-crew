@@ -8,7 +8,7 @@ layout: layouts/base.njk
   {%- for release in collections.release | reverse -%}
     <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url | url}}">
       <div class="image-wrapper">
-        <img src="{{ release.data.previewIimageUrl | url }}">
+        <img loading="lazy" src="{{ release.data.previewIimageUrl | url }}">
         <div class="gradient"></div>
       </div>
       <div class="description-wrapper">

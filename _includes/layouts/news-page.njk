@@ -8,7 +8,7 @@ layout: layouts/base.njk
     {%- for newsItem in collections.news | reverse -%}
         <a class="newsitem-element-wrapper hover reset-link-styles hover" href="{{ newsItem.url | url }}">
             <div class="image-wrapper">
-                <img src="{{ newsItem.data.headerIimageUrl | url }}">
+                <img loading="lazy" src="{{ newsItem.data.headerIimageUrl | url }}">
                 <h2>
                     {{ newsItem.data.title }} <span class="date">{{newsItem.date | postDate }}<span>
                 </h2>
