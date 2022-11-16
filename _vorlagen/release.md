@@ -1,5 +1,6 @@
 ---
 # Ab Hier editieren
+<<<<<<< HEAD
 
 title: NAME VON RELEASE
 addendum: Test
@@ -14,7 +15,7 @@ downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/NAMEVOMBILD.jpg
 
 
-## Format YYYY.MM.DD
+## Format YYYY-MM-DD
 date: 2022-08-01
 
 
