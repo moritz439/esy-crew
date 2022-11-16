@@ -16,7 +16,7 @@ tracks:
 
 spotifyLink: https://open.spotify.com/album/6lhjQ4b2nqG8g9aKkZBiic?si=MLriiaBiR4WYk7kzy3quNw
 appleMusicLink: https://music.apple.com/de/album/bleibt-so-feat-notypebeats-single/1625719403
-downloadLink: https://www.dropbox.com/sh/vw8wg71fxh54kn4/AABNQXzAVW-EWaJws-8zx-tia?dl=0
+downloadLink:
 previewIimageUrl: /assets/images/EM-Ep-Cover-1.jpg
 downloadUrl: hier download url
 
@@ -29,4 +29,4 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Hier Inhalt in MarkDown - Notation einfügen.
+Die Easy Money EP bietet einen Einblick in verschiedenste Momente und Erfahrungen eines jungen Slowmoe. 

@@ -8,7 +8,7 @@ tracks:
 spotifyLink: https://open.spotify.com/album/6lhjQ4b2nqG8g9aKkZBiic?si=MLriiaBiR4WYk7kzy3quNw
 appleMusicLink: https://music.apple.com/de/album/bleibt-so-feat-notypebeats-single/1625719403
 downloadLink: https://www.dropbox.com/sh/fhc08deqr0q4cfy/AAAUMQaGSAH5g_UujStyNhzYa?dl=0
-previewIimageUrl: /assets/images/BleibtSo.jpg
+previewIimageUrl: /assets/images/BleibtSo400x400.jpg
 downloadUrl: hier download url
 
 ## Format YYYY.MM.DD
@@ -20,4 +20,4 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Hier Inhalt in MarkDown - Notation einfügen.
+Bleibt so /Slowmoe /NoTypeBeats

@@ -21,7 +21,7 @@ tracks:
 
 spotifyLink: https://open.spotify.com/album/0cSUvRDiAes4LZQvPp3iIS?si=u0nyd1RuQUqbtjLnvAB33Q
 appleMusicLink: https://music.apple.com/de/album/state-of-the-art-feat-%E2%82%AC%24%C2%A5/1552919255
-downloadLink: https://www.dropbox.com/sh/z8g6roghrba7rnd/AACgcizmGeyAYSGKs39hIvD6a?dl=0
+downloadLink: 
 previewIimageUrl: /assets/images/cover/SOTA_v6.jpeg
 downloadUrl: hier download url
 

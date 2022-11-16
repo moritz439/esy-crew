@@ -1,5 +1,6 @@
 ---
 # Ab Hier editieren
+
 title: NAME VON RELEASE
 addendum: Test
 artist: NAME VON ARTIST
@@ -11,7 +12,7 @@ spotifyLink: https://www.spotify.com/de/
 appleMusicLink: https://www.apple.com/apple-music/
 downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/NAMEVOMBILD.jpg
-downloadUrl: hier download url
+
 
 ## Format YYYY.MM.DD
 date: 2022-08-01
