@@ -17,7 +17,6 @@ tags: news
 - <del>21.05 Bürgerfest West</del>
 - <del>04.06 Demontage</del>
 - <del>16.06 Merlin</del>
-- <del>16.06 Science Jam (abgesagt)</del>
 - <del>03.07 Marienplatzfest</del>
 - <del>09.07 Afrika Fest</del>
 - <del>16.07 Jugendhaus Fellbach</del>
