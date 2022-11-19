@@ -10,4 +10,4 @@ Musikalisch lassen sich die Rapper nicht einschränken und beweisen auf Boombap,
 Ob Live, im Studio oder vor der Kamera; €$¥ bleibt echt und bringt Laune mit. 
 Alle Produktionen kommen aus dem Team, ob visuell oder musikalisch.
 
-<img src=/assets/images/A7306594.jpg>
+<img src=>
