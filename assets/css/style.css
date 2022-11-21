@@ -7,6 +7,7 @@
 @import './components/footer.css';
 @import './components/spenden.css';
 @import './components/contact.css';
+@import './components/presskit.css';
 
 @font-face {
     font-family: BebasNeue;
@@ -117,4 +118,3 @@ p a::after, li a::after {
         opacity: 1;
     }
 }
-

@@ -1,0 +1,47 @@
+.presskit {
+    display: grid;
+    gap: 64px;
+}
+
+.presskit img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.presskit .section {
+    display: grid;
+    gap: 32px;
+}
+
+.presskit .section-element span.artist {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.presskit .section-element video {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.presskit .section.two-elements {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.presskit .section.three-elements {
+    grid-template-columns: repeat(3, 1fr);
+   
+}
+
+.presskit .section-element.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 8px;
+    padding-bottom: 16px;
+}
+
+.presskit .section-element.center svg{
+    width: 80px;
+    height: 80px;
+}

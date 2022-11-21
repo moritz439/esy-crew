@@ -41,6 +41,8 @@
     .contact-items-wrapper {
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .presskit 
 }
 
 @media only screen and (min-width: 700px) {
