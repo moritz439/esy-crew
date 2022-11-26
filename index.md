@@ -1,5 +1,5 @@
 ---
-    layout: layouts/news-page.njk
+    layout: layouts/musik-page.njk
 ---
 
 # 2022
