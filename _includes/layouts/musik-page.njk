@@ -2,19 +2,38 @@
 layout: layouts/base.njk 
 ---
 
+<div class="coming-soon-wrapper">
+  <div class="title">
+    <h1>{{ comingSoonTitle }}</h1>
+  </div>
+  <div class="image-wrapper cover">
+    <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
+  </div>
+  <div class="image-wrapper background">
+    <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
+  </div>
+  <div class="date">
+    <h1>coming {{ comingSoonDate }}</h1>
+  </div>
+</div>
+
 {{ content | safe }}
 
 <div class="release-items-preview-wrapper">
   {%- for release in collections.release | reverse -%}
-    <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url | url}}">
+    <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url | url }}">
       <div class="image-wrapper">
         <img loading="lazy" src="{{ release.data.previewIimageUrl | url }}">
-        <div class="gradient"></div>
-      </div>
-      <div class="description-wrapper">
-        <h2>{{ release.data.title }} <br><span>{{ release.data.addendum }}</span></h2>
-        <h3> {{ release.data.artist }}</h3>
-      </div>
-    </a>
-  {%- endfor -%}
-</div>
+          <div class="gradient"></div>
+        </div>
+        <div class="description-wrapper">
+          <h2>{{ release.data.title }}
+            <br>
+              <span>{{ release.data.addendum }}</span>
+            </h2>
+            <h3>
+              {{ release.data.artist }}</h3>
+          </div>
+        </a>
+      {%- endfor -%}
+    </div>
