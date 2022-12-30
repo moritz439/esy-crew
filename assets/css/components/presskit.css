@@ -3,6 +3,10 @@
     gap: 64px;
 }
 
+.presskit .section {
+    background-color: gray;
+}
+
 .presskit img {
     max-width: 100%;
     border-radius: 8px;
