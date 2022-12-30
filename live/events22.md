@@ -16,13 +16,12 @@ Was passiert, wenn sich die stuttgarter €$¥ Crew, das Trabanten Kollektiv und
 Richtig - Ein subkulturelles Crossover-Feuerwerk, das bunter und großartiger nicht sein könnte.
 
 
-[Link zur Website](https://www.instagram.com/flightmode__festival)
+[flightmode Instgram](https://www.instagram.com/flightmode__festival)
  
  ## Urban Konvention LKA
 
 HipHop Fashion, Vinylflohmarkt, Rap Music, Graffiti Jam & Breakin Battle:
-Die erste Urban Convention setzt einen neuen Meilenstein für die HipHop Szene in Stuttgart. 
-Sichere dir jetzt dein limitiertes Ticket für das fette Indoorfestival am 11. September im legendären LKA Longhorn im VVK ab 07,11€.
+Die erste Urban Convention setzte einen neuen Meilenstein für die HipHop Szene in Stuttgart. 
 
 
-[Link zur Website](https://www.instagram.com/0711ucon/)
+[Ucon Instagram](https://www.instagram.com/0711ucon/)
