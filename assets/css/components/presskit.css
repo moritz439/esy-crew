@@ -1,8 +1,14 @@
 .presskit {
     display: grid;
-    gap: 64px;
 }
 
+.presskit .line {
+    width: calc(100% - 128px);
+    border-bottom: 1px solid var(--color-darkest);
+    opacity: .3;
+    margin: 0 64px;
+    box-sizing: content-box;
+}
 
 .presskit img {
     max-width: 100%;
