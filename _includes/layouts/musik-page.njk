@@ -16,24 +16,20 @@ layout: layouts/base.njk
     <h1>coming {{ comingSoonDate }}</h1>
   </div>
 </div>
-
 {{ content | safe }}
-
 <div class="release-items-preview-wrapper">
   {%- for release in collections.release | reverse -%}
     <a class="release-element-wrapper reset-link-styles hover" href="{{ release.url | url }}">
       <div class="image-wrapper">
-        <img loading="lazy" src="{{ release.data.previewIimageUrl | url }}">
-          <div class="gradient"></div>
-        </div>
+        <img loading="lazy" src="{{ release.data.previewIimageUrl | url }}"></div>
         <div class="description-wrapper">
           <h2>{{ release.data.title }}
             <br>
               <span>{{ release.data.addendum }}</span>
             </h2>
-            <h3>
-              {{ release.data.artist }}</h3>
+            <h3>{{ release.data.artist }}</h3>
           </div>
         </a>
       {%- endfor -%}
     </div>
+  </div>

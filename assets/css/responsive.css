@@ -2,7 +2,17 @@
 
     .release-items-preview-wrapper,
     .newsitems-preview-wrapper {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: 1fr;
+    }
+
+    .coming-soon-wrapper .title, .coming-soon-wrapper .date {
+        margin: 64px 0;
+        max-width: 128px;
+        opacity: .8;
+    }
+
+    .coming-soon-wrapper h1 {
+        font-size: medium;
     }
 
     .navbar-elements svg {
@@ -50,6 +60,16 @@
 }
 
 @media only screen and (min-width: 700px) {
+
+    .coming-soon-wrapper h1 {
+        font-size: x-large;
+    }
+
+    .coming-soon-wrapper .title, .coming-soon-wrapper .date {
+        margin: 32px 0;
+        max-width: 300px;
+        opacity: 1;
+    }
 
     .newsitems-preview-wrapper,
     .release-items-preview-wrapper {

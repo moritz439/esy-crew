@@ -35,14 +35,14 @@
 } 
 
 .coming-soon-wrapper .title {
-    top: 32px;
+    top: 0;
     left: 0;
     padding-left: 32px;
 }
 
 .coming-soon-wrapper .date {
     right: 0;
-    bottom: 32px;
+    bottom: 0;
     padding-right: 32px;
 }
 
@@ -100,7 +100,6 @@
 
 .release-items-preview-wrapper h2 span {
     font-weight: normal;
-    white-space: nowrap;
     font-size: 20px;
 }
 
