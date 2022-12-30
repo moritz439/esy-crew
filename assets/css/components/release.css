@@ -13,6 +13,8 @@
 .coming-soon-wrapper .image-wrapper.cover {
     height: calc(100% - 64px);
     z-index: 3;
+    border-radius: 8px;
+    box-shadow: 0px 5px 16px -8px var(--color-darkest);
 }
 
 .coming-soon-wrapper .image-wrapper.background {
