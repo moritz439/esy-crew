@@ -5,7 +5,8 @@
         grid-template-columns: 1fr;
     }
 
-    .coming-soon-wrapper .title, .coming-soon-wrapper .date {
+    .coming-soon-wrapper .title,
+    .coming-soon-wrapper .date {
         margin: 64px 0;
         max-width: 128px;
         opacity: .8;
@@ -63,6 +64,10 @@
     .presskit .section.two-elements {
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .presskit {
+        gap: 32px;
+    }
 }
 
 @media only screen and (min-width: 700px) {
@@ -77,7 +82,8 @@
         font-size: x-large;
     }
 
-    .coming-soon-wrapper .title, .coming-soon-wrapper .date {
+    .coming-soon-wrapper .title,
+    .coming-soon-wrapper .date {
         max-width: 200px;
     }
 
@@ -116,6 +122,10 @@
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .presskit {
+        gap: 64px;
+    }
+
     .presskit .section.two-elements {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -124,7 +134,8 @@
 
 @media only screen and (min-width: 1100px) {
 
-    .coming-soon-wrapper .title, .coming-soon-wrapper .date {
+    .coming-soon-wrapper .title,
+    .coming-soon-wrapper .date {
         max-width: 300px;
         margin: 32px 0;
         opacity: 1;
