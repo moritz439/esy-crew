@@ -2,20 +2,22 @@
 layout: layouts/base.njk 
 ---
 
-<div class="coming-soon-wrapper">
-  <div class="title">
-    <h1>{{ comingSoonTitle }}</h1>
+{% if comingSoonTitle %}
+  <div class="coming-soon-wrapper">
+    <div class="title">
+      <h1>{{ comingSoonTitle }}</h1>
+    </div>
+    <div class="image-wrapper cover">
+      <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
+    </div>
+    <div class="image-wrapper background">
+      <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
+    </div>
+    <div class="date">
+      <h1>coming {{ comingSoonDate }}</h1>
+    </div>
   </div>
-  <div class="image-wrapper cover">
-    <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
-  </div>
-  <div class="image-wrapper background">
-    <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
-  </div>
-  <div class="date">
-    <h1>coming {{ comingSoonDate }}</h1>
-  </div>
-</div>
+{% endif %}
 {{ content | safe }}
 <div class="release-items-preview-wrapper">
   {%- for release in collections.release | reverse -%}
