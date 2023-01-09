@@ -71,6 +71,9 @@
 }
 
 @media only screen and (min-width: 700px) {
+    .linklist-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
 
     .coming-soon-wrapper {
         width: 100%;
