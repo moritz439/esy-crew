@@ -3,11 +3,11 @@ const { DateTime } = require("luxon");
 
 
 module.exports = function (eleventyConfig) {
-  // Copy the `css` directory to the output
+  // files and dirs to keep
   eleventyConfig.addPassthroughCopy('assets/');
   eleventyConfig.addPassthroughCopy('CNAME');
 
-  // Watch the `css` directory for changes
+  // files and dirs to watch during development
   eleventyConfig.addWatchTarget('assets/');
 
   eleventyConfig.ignores.add("README.md");
