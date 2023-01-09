@@ -10,18 +10,28 @@ layout: layouts/post.njk
 tags: news
 ---
 
-## Flightmode Festival
+## Flightmode Festival 2022
 
-Was passiert, wenn sich die stuttgarter €$¥ Crew, das Trabanten Kollektiv und das Kollektiv am Waldrand zusammenschließen?
-Richtig - Ein subkulturelles Crossover-Feuerwerk, das bunter und großartiger nicht sein könnte.
+Flightmode Festival 2022
+Was passiert, wenn sich die Stuttgarter €$¥-Crew, das Trabanten Kollektiv und das 
+Kollektiv am Waldrand zusammenschließen? Richtig - ein subkulturelles CrossoverFeuerwerk, das bunter und großartiger nicht sein könnte.
+
+Die Mission: weg von der aktuell stark dominierenden Digitalisierung hin zum echten Leben. Für das Organisationsteam des Festivals bedeutete dies, die Stuttgarter Subkultur und junge Kreativschaffende jeglicher Façon bei diesem Event auf dem Sonnendeck des Züblin-Parkhauses in den Mittelpunkt zu stellen und vor allem zu feiern.
+
+Von Singer-Songwritern wie MarkMoon über Rap mit JayTee, bis hin zu Techno DJs 
+wie LEO TIGER oder auch Mara Sander und dem Headliner KEINE REVOLTE, deckte das Festival die stetig wachsende und diverse Newcomer-Szene Stuttgarts ab und bot den auftretenden Künstler:innen im Herzen Stuttgarts eine Bühne.
 
 
 [flightmode Instgram](https://www.instagram.com/flightmode__festival)
  
+ 
+ 
  ## Urban Konvention LKA
 
-HipHop Fashion, Vinylflohmarkt, Rap Music, Graffiti Jam & Breakin Battle:
-Die erste Urban Convention setzte einen neuen Meilenstein für die HipHop Szene in Stuttgart. 
+Fashion, Vinylflohmarkt, Rap-Musik, Graffiti-Jams & Breaking Battles: Die erste Urban Convention setzte einen neuen Meilenstein für die Hip-Hop-Szene in Stuttgart.
+
+Das €$¥-Camp konnte sich auch bei diesem Event in Sachen Live-Performance 
+behaupten.
 
 
 [Ucon Instagram](https://www.instagram.com/0711ucon/)
