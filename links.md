@@ -24,4 +24,4 @@ linkList:
         backgroundImageURL: /assets/images/tim parra.jpg
 ---
 
-# Test
+# Links
