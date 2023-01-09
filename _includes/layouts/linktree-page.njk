@@ -1,0 +1,18 @@
+--- 
+layout: layouts/base.njk 
+---
+<h1>{{title}}</h1>
+<div class="linklist-wrapper">
+    {%- for link in linkList -%}
+        <a class="reset-link-styles hover" href="{{ link.websiteURL }}" target="_blank">
+            {% if link.backgroundImageURL %}
+                <div class="image-wrapper">
+                    <img loading="lazy" src="{{ link.backgroundImageURL | url }}"/>
+                    <div class="gradient"></div>
+                </div>
+            {% endif %}
+            <h1>{{ link.text }}</h1>
+
+        </a>
+    {% endfor %}
+</div>
