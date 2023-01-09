@@ -20,6 +20,5 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Black king
 
 ESY Production
