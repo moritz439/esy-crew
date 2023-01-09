@@ -7,7 +7,6 @@ tracks:
 
 spotifyLink: https://open.spotify.com/track/4i5Usf8v7cvPx1HJwlJSTb?si=e99d2ea6d32a4e94
 appleMusicLink: https://music.apple.com/de/album/wenn-ich-roll-feat-notypebeats-%E2%82%AC%24%C2%A5-single/1580566493
-downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/cover/wennichrollcoverwebsite400x400.JPG
 downloadUrl: https://www.dropbox.com/s/gvryzjolgh6urr6/Wenn%20Ich%20Roll.mp3?dl=0
 

@@ -1,6 +1,6 @@
 ---
 # Ab Hier editieren
-<<<<<<< HEAD
+
 
 title: NAME VON RELEASE
 addendum: Test
@@ -9,8 +9,9 @@ tracks:
  - NAME VON TRACK 1
  - NAME VON TRACK 2
  - NAME VON TRACK 3
-spotifyLink: https://www.spotify.com/de/
-appleMusicLink: https://www.apple.com/apple-music/
+spotifyLink: 
+appleMusicLink: 
+youtubeLink: 
 downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/NAMEVOMBILD.jpg
 

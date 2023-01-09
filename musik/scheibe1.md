@@ -11,7 +11,6 @@ tracks:
 
 spotifyLink: https://open.spotify.com/album/6lhjQ4b2nqG8g9aKkZBiic?si=MLriiaBiR4WYk7kzy3quNw
 appleMusicLink: https://music.apple.com/de/album/bleibt-so-feat-notypebeats-single/1625719403
-downloadLink: /assets/releases/NAVEVONRELEASDATEI.zip
 previewIimageUrl: /assets/images/scheibe 1.jpg
 downloadUrl: hier download url
 

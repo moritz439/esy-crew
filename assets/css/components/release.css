@@ -25,7 +25,7 @@
 }
 
 .coming-soon-wrapper .image-wrapper.background img {
-    filter: blur(10px) opacity(50%);
+    filter: blur(10px) opacity(30%);
 }
 
 .coming-soon-wrapper .title, .coming-soon-wrapper .date {
