@@ -16,9 +16,7 @@ tags: news
 
 | Flugmodus 19.01. | 19:00 Uhr | Club Schräglage | Hirschstraße 14 70173 Stuttgart |
 
-Tickets gibts hier:
-
-<a href="https://www.eventbrite.com/e/flugmodus-tickets-492911550717">Ticketlink</a>
+Hier gehts zu den Tickets: <a href="https://www.eventbrite.com/e/flugmodus-tickets-492911550717">Ticketlink</a>
 
 
 Eventbeschreibung:
