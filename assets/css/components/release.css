@@ -1,3 +1,59 @@
+.coming-soon-wrapper {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.coming-soon-wrapper .image-wrapper.cover {
+    max-height: calc(100% - 64px);
+    max-width: calc(100% - 64px);
+    aspect-ratio: 1 / 1;
+    z-index: 3;
+    border-radius: 8px;
+    box-shadow: 0px 5px 16px -8px var(--color-darkest);
+}
+
+.coming-soon-wrapper .image-wrapper.background {
+    position: absolute;
+    width: 110%;
+    z-index: 1;
+}
+
+.coming-soon-wrapper .image-wrapper.background img {
+    filter: blur(10px) opacity(50%);
+}
+
+.coming-soon-wrapper .title, .coming-soon-wrapper .date {
+    background-color: var(--color-darker);
+    position: absolute;
+    padding: 16px;
+    z-index: 4;
+} 
+
+.coming-soon-wrapper .title {
+    top: 0;
+    left: 0;
+    padding-left: 32px;
+}
+
+.coming-soon-wrapper .date {
+    right: 0;
+    bottom: 0;
+    padding-right: 32px;
+}
+
+.coming-soon-wrapper h1, .coming-soon-wrapper h2  {
+    margin: 0;
+}
+
+
+
+
 .release-items-preview-wrapper .release-element-wrapper {
     display: flex;
     flex-direction: column;
@@ -29,7 +85,7 @@
     gap: 8px;
 }
 
-.release-items-preview-wrapper .description-wrapper h3{
+.release-items-preview-wrapper .description-wrapper h3 {
     font-weight: normal;
 }
 
@@ -38,14 +94,13 @@
     text-align: center;
 }
 
-.release-page-wrapper h1 span { 
+.release-page-wrapper h1 span {
     padding-left: 8px;
     font-size: 24px;
 }
 
-.release-items-preview-wrapper h2 span { 
+.release-items-preview-wrapper h2 span {
     font-weight: normal;
-    white-space: nowrap;
     font-size: 20px;
 }
 
@@ -83,7 +138,7 @@
     flex: 1;
     gap: 16px;
     flex-flow: column;
-    
+
 }
 
 .release-page-wrapper .description-wrapper :is(h1, h2) {

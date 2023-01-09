@@ -41,13 +41,13 @@ main {
     animation: fade-in 1s;
 }
 
-p a, li a {
+p a, li a, h2 a {
     text-decoration: none;
     font-weight: bold;
     color: var(--color-dark);
 }
 
-p a::after, li a::after {
+p a::after, li a::after, h2 a::after {
     content: '🔗';
     font-size: small;
     padding-left: 8px;

@@ -12,14 +12,12 @@ layout: layouts/post.njk
 tags: news
 ---
 
-
-
 | Flugmodus 19.01. | 19:00 Uhr | Club Schräglage | Hirschstraße 14 70173 Stuttgart |
 
-Hier gehts zu den Tickets: <a href="https://www.eventbrite.com/e/flugmodus-tickets-492911550717">Ticketlink</a>
+## Tickets
+...bekommt ihr  <a href="https://www.eventbrite.com/e/flugmodus-tickets-492911550717">hier</a>
 
-
-Eventbeschreibung:
+## Eventbeschreibung
 
 Weg von der aktuell dominierenden Digitalisierung, hin zum echten Leben soll mit
 Flugmodus Live Musik zelebriert - und finanzielle Mittel für einen guten Zweck gesammelt
@@ -32,7 +30,7 @@ Artists eine gemeinsame Bühne bieten und dabei Geld für die Stuttgarter Hilfso
 STELP und die Zentrale Notübernachtung der Evangelischen Gesellschaft in Stuttgart
 generieren. Das Ziel ist, 60 Prozent der Ticketeinnahmen zu spenden.
 
-Programm:
+## Programm
 
 Nach einem Warm Up Set von DJ Lowz, beginnend um 19:00 Uhr,
 eröffnet der Stuttgarter Künstler Elithesleepgod um 19:30 Uhr das Live Programm.
@@ -42,11 +40,9 @@ Letzter Programmpunkt und Main Act des Abends ist niemand geringeres als Südber
 Sprüh -und Raplegende Luvre47! Sein Slot beginnt um 21:30 Uhr.
 Um 22:30 Uhr endet das erste Flugmodus Live.
 
-Besonders dabei:
+## Besonders dabei
 
-Im Rahmen einer SWR Dokumentation über den €$¥-Rapper Yung Obama, wird der
-komplette organisatorische Prozess, sowie der Abend der Veranstaltung, von einem
-Kamerateam der AV Medien GmbH begleitet.
+Im Rahmen einer SWR Dokumentation über den €$¥-Rapper Yung Obama, wird der komplette organisatorische Prozess, sowie der Abend der Veranstaltung, von einem Kamerateam der AV Medien GmbH begleitet.
 Die Dokumentation, ist Teil der Reihe Parallelwelten und beleuchtet das Leben des Rappers,
 zwischen seinem 9 to 5 Job auf der Baustelle und der eigentlichen Passion, der Musik,
 genauer der Live-Musik. Die Produktion wird voraussichtlich ab April in der ARD Mediathek,
