@@ -1,7 +1,7 @@
 --- 
 layout: layouts/base.njk 
 ---
-<h1>{{title}}</h1>
+{{ content | safe }}
 <div class="linklist-wrapper">
     {%- for link in linkList -%}
         <a class="reset-link-styles hover" href="{{ link.websiteURL }}" target="_blank">
