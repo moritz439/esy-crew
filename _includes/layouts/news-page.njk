@@ -3,7 +3,6 @@ layout: layouts/base.njk
 ---
 
 {{ content | safe}}
-
 <div class="newsitems-preview-wrapper">
     {%- for newsItem in collections.news | reverse -%}
         <a class="newsitem-element-wrapper hover reset-link-styles hover" href="{{ newsItem.url | url }}">
