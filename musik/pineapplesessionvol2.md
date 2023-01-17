@@ -3,8 +3,8 @@
 
 
 title: Pineapple Session, Vol. 2
-addendum: Test
-artist: €$¥, Jasmo, Thary, Yung Obama, Fritz, Slowmoe, Neon Music, DJ Crossfaded
+addendum: 
+artist: €$¥
 tracks:
 
 spotifyLink: https://open.spotify.com/album/0AzqtcwkCekODLlAbQyf65?si=YvHJn2GtS5mDk8RR-0-EHA
@@ -22,5 +22,7 @@ date: 2023-01-13
 layout: layouts/release.njk
 tags: release
 ---
+
+Artists: Jasmo, Thary, Yung Obama, Fritz, Slowmoe, Neon Music, DJ Crossfaded
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.

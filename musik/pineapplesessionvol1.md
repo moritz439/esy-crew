@@ -3,8 +3,8 @@
 
 
 title: Pineapple Session, Vol. 1
-addendum: Test
-artist: €$¥, Yung Obama, SAD, MC Lift, Orcus Eden, Crash Bundy, Franky Kubrick, Benjo, Slowmoe, DJ Lowz
+addendum: 
+artist: €$¥
 tracks:
 
 spotifyLink: https://open.spotify.com/album/0nmXaMCV1AnTpF5cQg3dbL?si=XIil4odSS9ypauN-6J_F1w
@@ -22,5 +22,7 @@ date: 2023-01-06
 layout: layouts/release.njk
 tags: release
 ---
+
+Artists: Yung Obama, SAD, MC Lift, Gweilo (Orcus Eden), Matt King (Orcus Eden), Crash Bundy, Franky Kubrick, Benjo, Slowmoe, DJ Lowz
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.
