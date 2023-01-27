@@ -3,7 +3,7 @@
 
 
 title: Pineapple Session, Vol. 4
-addendum: 
+addendum: prod. by OMOI
 artist: €$¥
 tracks:
 
@@ -23,6 +23,8 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Artists: Slowmoe, Yung Obama, KARL RICH, PAS, Helmut Hustle, Rakete, 9T9
+Artists: Yung Obama, Blain, Trigga, Slowmoe, Xeeboy Tino
+
+Host: DJ Hoxxa
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.

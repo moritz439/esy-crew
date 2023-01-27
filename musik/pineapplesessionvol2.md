@@ -3,7 +3,7 @@
 
 
 title: Pineapple Session, Vol. 2
-addendum: 
+addendum: prod. by Neon
 artist: €$¥
 tracks:
 
@@ -23,6 +23,8 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Artists: Jasmo, Thary, Yung Obama, Fritz, Slowmoe, Neon Music, DJ Crossfaded
+Artists: Jasmo, Thary, Yung Obama, Fritz, Slowmoe
+
+Host: DJ Crossfaded
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.

@@ -3,7 +3,7 @@
 
 
 title: Pineapple Session, Vol. 1
-addendum: 
+addendum: prod. by Jackill
 artist: €$¥
 tracks:
 
@@ -23,6 +23,8 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Artists: Yung Obama, SAD, MC Lift, Gweilo (Orcus Eden), Matt King (Orcus Eden), Crash Bundy, Franky Kubrick, Benjo, Slowmoe, DJ Lowz
+Artists: Yung Obama, SAD, MC Lift, Gweilo (Orcus Eden), Matt King (Orcus Eden), Crash Bundy, Franky Kubrick, Benjo, Slowmoe
+
+Host: DJ Lowz
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.
