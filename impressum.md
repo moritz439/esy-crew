@@ -1,4 +1,7 @@
-## Angaben gemäß § 5 TMG
+---
+layout: layouts/base.njk
+---
+# Angaben gemäß § 5 TMG
 
 www.easymoneymusic.de ist der Internet-Auftritt von ESY
 Hauptstätterstr. 143
@@ -6,13 +9,13 @@ Hauptstätterstr. 143
 
 E-Mail: team@esymusic.de
 
-## Inhaltlich verantwortlich im Sinne des Presserechts
+# Inhaltlich verantwortlich im Sinne des Presserechts
 
 Tim Pressel
 Kapfenburgstr. 19 70469 Stuttgart
 
 
-## Urheberrecht der Inhalte
+# Urheberrecht der Inhalte
 
 Alle Inhalte sind urheberrechtlich geschützt.
 
@@ -21,7 +24,7 @@ Sie dürfen (auch kommerziell) nur dann genutzt werden, wenn unter dem entnommen
 Die auf www.easymoneymusic.de eingebundenen Links können sich kurzfristig ändern. ESY übernimmt für verlinkte Seiten keine Verantwortung.
 
 
-## EU-Streitschlichtung
+# EU-Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/.
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
