@@ -39,3 +39,8 @@ footer .line {
     opacity: .4;
     border-top: 1px solid var(--color-dark);
 }
+
+footer .further-links {
+    display: flex;
+    gap: 16px;
+}
