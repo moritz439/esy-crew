@@ -23,4 +23,4 @@ layout: layouts/release.njk
 tags: release
 ---
 
-Hier Inhalt in MarkDown - Notation einfügen.
+feat. aquamello, Slowmoe, Yung Obama, Loki Savage, 9T9
