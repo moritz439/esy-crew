@@ -28,3 +28,5 @@ Artists: Slowmoe, Eurojonny, Yung Obama, Geraldo da Kid, Medi, Alphinho
 Host: DJ Crossfaded
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.
+
+€$¥ Production

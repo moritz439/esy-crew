@@ -28,3 +28,5 @@ Artists: Yung Obama, Blain, Trigga, Slowmoe, Xeeboy Tino
 Host: DJ Hoxxa
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.
+
+€$¥ Production

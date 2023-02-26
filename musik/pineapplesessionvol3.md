@@ -28,3 +28,5 @@ Artists: Slowmoe, Yung Obama, KARL RICH, PAS, Helmut Hustle, Rakete, 9T9
 Host: DJ Lowz
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.
+
+€$¥ Production

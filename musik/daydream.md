@@ -23,3 +23,5 @@ tags: release
 ---
 
 feat. Escort Seitz, Slowmoe, Yung Obama, aquamello, Loki Savage, 9T9
+
+€$¥ Production

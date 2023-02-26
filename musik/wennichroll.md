@@ -19,4 +19,4 @@ layout: layouts/release.njk
 tags: release
 ---
 
-ESY Production
+€$¥ Production

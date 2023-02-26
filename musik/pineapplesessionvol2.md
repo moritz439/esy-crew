@@ -28,3 +28,5 @@ Artists: Jasmo, Thary, Yung Obama, Fritz, Slowmoe
 Host: DJ Crossfaded
 
 Auf Youtube findest du die Pineapple Sessions Vol. 1-5 mit Video.
+
+€$¥ Production
