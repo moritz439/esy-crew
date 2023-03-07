@@ -3,7 +3,7 @@
 
 
 title: Daydream
-addendum: prod. by demo
+addendum: prod. by LF Mo
 artist: €$¥, LDE
 tracks:
 spotifyLink: https://open.spotify.com/track/01b1FthB8QN6Wrf6wNdnTT?si=0670d6654b72401f
