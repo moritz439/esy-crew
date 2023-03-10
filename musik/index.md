@@ -1,6 +1,6 @@
 ---
 layout: layouts/musik-page.njk
-comingSoonTitle: Genug
-comingSoonDate: 10.3.2023
-comingSoonImageUrl: /assets/images/Genug_Cover.jpg
+comingSoonTitle: Skate
+comingSoonDate: 17.3.2023
+comingSoonImageUrl: /assets/images/SkateCover_1.jpg
 ---
