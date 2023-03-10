@@ -1,9 +1,9 @@
 ---
 layout: layouts/linktree-page.njk
 linkList:
-    -   websiteURL: https://open.spotify.com/track/5FyYyWfkVAOu0U4EeYC2hp?si=8de84c231f9e4b78
+    -   websiteURL: https://open.spotify.com/track/7y0QcUhoW49P2Yr0bjndx8?si=802d2d337f154978
         text: 🔥🔥🔥
-        backgroundImageURL: /assets/images/ok_cover.jpg
+        backgroundImageURL: /assets/images/Genug_Cover.jpg
     -   websiteURL: https://open.spotify.com/artist/7i821Ta09j5atcVbbCk49x
         text: ESY - Spotify
         backgroundImageURL: /assets/images/A7306594.jpg
