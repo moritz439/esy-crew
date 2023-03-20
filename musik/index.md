@@ -1,6 +1,6 @@
 ---
 layout: layouts/musik-page.njk
-comingSoonTitle: Skate
-comingSoonDate: 17.3.2023
-comingSoonImageUrl: /assets/images/SkateCover_1.jpg
+comingSoonTitle: Topsound
+comingSoonDate: 24.3.2023
+comingSoonImageUrl: /assets/images/cover/TopsoundCover.jpg
 ---
