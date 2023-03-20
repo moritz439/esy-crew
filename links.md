@@ -1,9 +1,9 @@
 ---
 layout: layouts/linktree-page.njk
 linkList:
-    -   websiteURL: https://open.spotify.com/track/7y0QcUhoW49P2Yr0bjndx8?si=802d2d337f154978
-        text: 🔥🔥🔥
-        backgroundImageURL: /assets/images/Genug_Cover.jpg
+    -   websiteURL: https://youtu.be/osd62AjT0ns
+        text: Skate - 9T9 ft. JayTee (Musikvideo)
+        backgroundImageURL: /assets/images/SkateCover_1.jpg
     -   websiteURL: https://open.spotify.com/artist/7i821Ta09j5atcVbbCk49x
         text: ESY - Spotify
         backgroundImageURL: /assets/images/A7306594.jpg
