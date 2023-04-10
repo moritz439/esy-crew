@@ -1,9 +1,9 @@
 ---
 layout: layouts/linktree-page.njk
 linkList:
-    -   websiteURL: https://youtu.be/osd62AjT0ns
-        text: Skate - 9T9 ft. JayTee (Musikvideo)
-        backgroundImageURL: /assets/images/SkateCover_1.jpg
+    -   websiteURL: https://youtu.be/7F06HoMzLVs
+        text: Yung Obama & Slowmoe - GRIND (Video)
+        backgroundImageURL: /assets/images/cover/grind_cover.jpeg
     -   websiteURL: https://open.spotify.com/artist/7i821Ta09j5atcVbbCk49x
         text: ESY - Spotify
         backgroundImageURL: /assets/images/A7306594.jpg
