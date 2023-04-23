@@ -1,9 +1,9 @@
 ---
 layout: layouts/linktree-page.njk
 linkList:
-    -   websiteURL: https://open.spotify.com/album/1b7577vq6F2HybYJ9AIMWE?si=bkcC80hTQ0WoqL5Os4qa0A
-        text: Slowmoe Halb 8 - Spotify
-        backgroundImageURL: /assets/images/cover/grind_cover.jpeg
+    -   websiteURL: https://open.spotify.com/album/5h3EqH8004soKgycBNgR8C?si=7unakUahSFG0lpbF_Y21WA
+        text: OUT NOW! - Slowmoe Keine Nacht - Spotify
+        backgroundImageURL: /assets/images/cover/Slowmoe_KeineNachtCover_1000x1000.jpg
     -   websiteURL: https://open.spotify.com/artist/7i821Ta09j5atcVbbCk49x
         text: ESY - Spotify
         backgroundImageURL: /assets/images/A7306594.jpg
