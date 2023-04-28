@@ -11,7 +11,7 @@ spotifyLink: https://open.spotify.com/album/5h3EqH8004soKgycBNgR8C?si=4xE2gSCcT_
 appleMusicLink: https://music.apple.com/de/album/keine-nacht-feat-notypebeats-%E2%82%AC%24%C2%A5-single/1679266806
 youtubeLink: 
 downloadLink: 
-previewIimageUrl: /assets/images/Slowmoe_KeineNachtCover_1000x1000.jpg
+previewIimageUrl: /assets/images/cover/Slowmoe_KeineNachtCover_1000x1000.jpg
 
 
 ## Format YYYY-MM-DD
