@@ -7,9 +7,8 @@
 */
 
 :root {
---color-dark: #D4A387ff;
---color-light: #E6D0C3ff;
---color-darker: rgb(41, 33, 16);
---color-darkest: rgb(17, 14, 7);
-
+    --color-dark: #D4A387ff;
+    --color-light: #E6D0C3ff;
+    --color-darker: rgb(41, 33, 16);
+    --color-darkest: rgb(17, 14, 7);
 }

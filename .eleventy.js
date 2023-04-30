@@ -2,7 +2,7 @@ const sanitizeHtml = require('sanitize-html');
 const { DateTime } = require("luxon");
 
 
-module.exports = function (eleventyConfig) {
+module.exports = function(eleventyConfig) {
   // files and dirs to keep
   eleventyConfig.addPassthroughCopy('assets/');
   eleventyConfig.addPassthroughCopy('CNAME');

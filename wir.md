@@ -2,7 +2,6 @@
 layout: layouts/crew-page.njk
 ---
 
-
 # Wer ist €$¥?
 
 €$¥ sind Yung Obama, Slowmoe, 9T9 und ihr Team. Live spielt €$¥ inzwischen auf vielen unterschiedlichen Bühnen, wie dem Marienplatzfest, dem LKA, Awara-Festival uvm. 

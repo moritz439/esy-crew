@@ -9,6 +9,7 @@
 @import './components/contact.css';
 @import './components/presskit.css';
 @import './components/linktree.css';
+@import './components/crew-page.css';
 
 
 @font-face {
@@ -89,6 +90,7 @@ p a::after, li a::after, h2 a::after {
 
 .hover:is(:hover, :focus) {
     transform: scale(1.03);
+    cursor: pointer;
 }
 
 .large-flex-grid {
