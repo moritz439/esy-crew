@@ -1,9 +1,9 @@
 ---
 layout: layouts/linktree-page.njk
 linkList:
-    -   websiteURL: https://open.spotify.com/album/5h3EqH8004soKgycBNgR8C?si=7unakUahSFG0lpbF_Y21WA
-        text: OUT NOW! - Slowmoe Keine Nacht - Spotify
-        backgroundImageURL: /assets/images/cover/Slowmoe_KeineNachtCover_1000x1000.jpg
+    -   websiteURL: https://open.spotify.com/album/6qARUGwnYcjOdIKOpMSvOQ?si=HqpDbWraTYOcCtKaMtekMg
+        text: OUT NOW! - Yung Obama Fast Life - Spotify
+        backgroundImageURL: /assets/images/cover/FastLifeCover1000x1000.jpg
     -   websiteURL: https://open.spotify.com/artist/7i821Ta09j5atcVbbCk49x
         text: ESY - Spotify
         backgroundImageURL: /assets/images/A7306594.jpg
