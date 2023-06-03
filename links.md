@@ -1,9 +1,9 @@
 ---
 layout: layouts/linktree-page.njk
 linkList:
-    -   websiteURL: https://open.spotify.com/track/3iZIgYBBdeiUxY2aQv008V?si=5a4bb120ad17475a
-        text: OUT NOW! - 9T9 feat. Slowmoe - Lebenslauf - Spotify
-        backgroundImageURL: /assets/images/cover/LebenslaufCover1000x1000.jpg
+    -   websiteURL: https://open.spotify.com/intl-de/track/4oKiLtRqaXieR2TsKgyVis?si=d2775d4ecd104250
+        text: OUT NOW! - Slowmoe ft. MC Lift - Du weißt - Spotify
+        backgroundImageURL: /assets/images/cover/DuWeißt_Cover1000x1000.jpg
     -   websiteURL: https://open.spotify.com/artist/7i821Ta09j5atcVbbCk49x
         text: ESY - Spotify
         backgroundImageURL: /assets/images/A7306594.jpg
