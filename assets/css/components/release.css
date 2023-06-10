@@ -7,6 +7,7 @@
     box-sizing: border-box;
     border-radius: 4px;
     overflow: hidden;
+    border: 1px solid var(--color-darkest);
 }
 
 .coming-soon-wrapper .image-wrapper.cover {
@@ -16,6 +17,8 @@
     z-index: 3;
     border-radius: 8px;
     box-shadow: 0px 5px 16px -8px var(--color-darkest);
+    border: 2px solid var(--color-darkest);
+
 }
 
 .coming-soon-wrapper .image-wrapper.background {
@@ -39,12 +42,16 @@
     top: 0;
     left: 0;
     padding-left: 32px;
+    border: solid var(--color-darkest);
+    border-width: 1px 1px 1px 0;
 }
 
 .coming-soon-wrapper .date {
     right: 0;
     bottom: 0;
     padding-right: 32px;
+    border: solid var(--color-darkest);
+    border-width: 1px 0 1px 1px;
 }
 
 .coming-soon-wrapper h1, .coming-soon-wrapper h2  {
