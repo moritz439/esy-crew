@@ -20,7 +20,7 @@ previewIimageUrl: /assets/images/NAMEVOMBILD.jpg
 date: 2022-08-01
 
 
-# Ab hier nicht mehr
+# Ab hier nicht mehr editieren
 layout: layouts/release.njk
 tags: release
 ---
