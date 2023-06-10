@@ -16,13 +16,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
   });
+  const yaml = require("js-yaml");
+
+
+  eleventyConfig.addDataExtension("yaml", contents => yaml.load(contents));
+  
 
   eleventyConfig.addFilter("textPreview", (htmlString) => {
     debugger
     let san = sanitizeHtml(htmlString, {
       allowedTags: [],
       allowedAttributes: []
-    }); 
+    });
 
     return san.substring(0, 200) + ' ...'
   });

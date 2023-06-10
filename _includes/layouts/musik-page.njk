@@ -2,19 +2,19 @@
 layout: layouts/base.njk 
 ---
 
-{% if comingSoonTitle %}
+{% if comingSoon.title %}
   <div class="coming-soon-wrapper">
     <div class="title">
-      <h1>{{ comingSoonTitle }}</h1>
+      <h1>{{ comingSoon.title }}</h1>
     </div>
     <div class="image-wrapper cover">
-      <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
+      <img loading="lazy" src="{{ comingSoon.imageUrl | url }}"/>
     </div>
     <div class="image-wrapper background">
-      <img loading="lazy" src="{{ comingSoonImageUrl | url }}"/>
+      <img loading="lazy" src="{{ comingSoon.imageUrl | url }}"/>
     </div>
     <div class="date">
-      <h1>coming {{ comingSoonDate }}</h1>
+      <h1>coming {{ comingSoon.date }}</h1>
     </div>
   </div>
 {% endif %}

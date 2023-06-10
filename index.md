@@ -1,5 +1,3 @@
 ---
-layout: layouts/news-page.njk
+layout: layouts/musik-page.njk
 ---
-
-# Live Events
