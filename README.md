@@ -26,7 +26,5 @@
  3. Kopierte Datei öffnen und alle Werte zwischen _Ab hier editieren_ und _Ab hier nicht mehr editieren_ anpassen 
  4. Beschreibung in Klartext unter die Tennline ( ___ ) einfügen
 
-Ist der Release ein Tape oder Album mit mehreren Tracks, die trakliste erweitern. Wenn nicht, die Trackliste einfach löschen.
-
 
 
