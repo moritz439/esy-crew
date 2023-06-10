@@ -1,10 +1,17 @@
 # Esy Website
+Hier ist der Code der [Website](esymusic.easymoneymusic.de/) der €$¥-Crew aus Stuttgart gehostet.
+Genutzte Technologie ist [Eleventy](https://www.11ty.dev/).
 
-# Standarts
-## Bildgröße
-1200 max Breite, Höhe entsprechend
-
+CD ist konfiguriert über Github Actions und watched den `crewbranch`.
+# Konventionen
+- Bildgröße: 1200px maximale Breite, Höhe entsprechend
+- Benennung der Dateien: Snake Case (z.B.: `endlich_arbietslos.md`)
+- Bilder abspeichern unter `./assets/images`. Cover für Releses in den Unterordner `/cover`.
+- PDFs oder ähnliche Dateien abspeichern unter `./assets/dokumente`
 # How To
+## Seite Konfigurieren 
+...passiert über die Datei `./data/site.yaml`.
+Zu finden sind hier solche Daten wie Titel der Seite (steht oben im Tab des Browsers), Email-Addressen oder den Link zu dem Elektronischen Presskit.
 ## Coming Soon Banner verwalten
 ### Anpassen
  1. Datei `./_data/comingSoon.yaml` öffnen
