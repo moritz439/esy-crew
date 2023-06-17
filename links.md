@@ -7,6 +7,9 @@ linkList:
     -   websiteURL: https://open.spotify.com/intl-de/album/6p6zx5Esoq6tinSq8CeCe5?si=Rh6wSFTSQRWa-XxciRt4Zw
         text: Goddamn - Spotify
         backgroundImageURL: /assets/images/cover/GodDamCover_1000x1000.jpg
+    -   websiteURL: https://open.spotify.com/intl-de/track/06f3e4TEdfBf0j6kwy7nZ6?si=10124d51f7484195
+        text: Blau - Spotify
+        backgroundImageURL: /assets/images/cover/BlauCoverClean_1000x1000.jpg
     -   websiteURL: https://open.spotify.com/artist/7i821Ta09j5atcVbbCk49x
         text: ESY - Spotify
         backgroundImageURL: /assets/images/A7306594.jpg
