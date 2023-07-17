@@ -10,7 +10,7 @@ spotifyLink: https://open.spotify.com/intl-de/album/1Zgi4ET09Epr24wbSJKrg1?si=Qe
 appleMusicLink: https://music.apple.com/de/album/drive-feat-lf-mo/1692915375?i=1692915886
 youtubeLink: 
 downloadLink: /assets/releases/
-previewIimageUrl: /assets/images/Cover/Drive_Cover_1000x1000.png
+previewIimageUrl: /assets/images/cover/Drive_Cover_1000x1000.png
 
 
 ## Format YYYY-MM-DD

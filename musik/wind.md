@@ -10,7 +10,7 @@ spotifyLink: https://open.spotify.com/intl-de/track/6qgk66SLfIk9KcLvsqUnxs?si=ca
 appleMusicLink: https://music.apple.com/de/album/wind-feat-%E2%82%AC%24%C2%A5-notypebeats-single/1688796078
 youtubeLink: 
 downloadLink: /assets/releases/
-previewIimageUrl: /assets/images/Cover/WindCover_1000x1000.png
+previewIimageUrl: /assets/images/cover/WindCover_1000x1000.png
 
 
 ## Format YYYY-MM-DD
