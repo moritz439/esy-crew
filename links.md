@@ -4,9 +4,9 @@ linkList:
     -   websiteURL: https://youtu.be/7TXQoDTbUA0
         text: Wenn du meinst - video - YouTube
         backgroundImageURL: /assets/images/cover/WennDuMeinstCoverFINAL_1000x1000.png
-    -   websiteURL: https://open.spotify.com/intl-de/track/7AJrLav4tiksCUUQTdNOMd?si=2b426a8b45e14035
-        text: Liebe = Cardio - Spotify
-        backgroundImageURL: /assets/images/cover/Liebe_Cardio1_1000x1000.png
+    -   websiteURL: https://open.spotify.com/intl-de/track/25LoMWm4nNXp0qmiqJ2DoY?si=11dd89cdde4949e0
+        text: Feinstaub - Spotify
+        backgroundImageURL: /assets/images/cover/Feinstaub_Cover_1000x1000.jpg
     -   websiteURL: https://open.spotify.com/intl-de/track/06f3e4TEdfBf0j6kwy7nZ6?si=10124d51f7484195
         text: Blau - Spotify
         backgroundImageURL: /assets/images/cover/BlauCoverClean_1000x1000.jpg
