@@ -12,6 +12,6 @@ layout: layouts/post.njk
 tags: news
 ---
 
-#Upcoming Live Dates
-- Weltchen Festival | 12.08.2023 | Eschweiler
-- Festival am Waldrand | 08-10.09.2023 | Bad Wildbad
+
+Der Live Sommer 2023 war der Hammer!
+Sobald es wieder los geht melden wir uns :)
