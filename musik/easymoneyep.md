@@ -14,8 +14,8 @@ tracks:
 - Hhfdd
 - Meine Sache
 
-spotifyLink: https://open.spotify.com/album/6lhjQ4b2nqG8g9aKkZBiic?si=MLriiaBiR4WYk7kzy3quNw
-appleMusicLink: https://music.apple.com/de/album/bleibt-so-feat-notypebeats-single/1625719403
+spotifyLink: 
+appleMusicLink:
 downloadLink:
 previewIimageUrl: /assets/images/EM-Ep-Cover-1.jpg
 downloadUrl: hier download url
@@ -28,5 +28,8 @@ date: 2019-08-01
 layout: layouts/release.njk
 tags: release
 ---
+
+Only on <a href="https://soundcloud.com/user-797439484/sets/easy-money-ep">Soundcloud</a>
+
 
 €$¥ Production
