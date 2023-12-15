@@ -1,9 +1,9 @@
 ---
 layout: layouts/linktree-page.njk
 linkList:
-    -   websiteURL: https://youtu.be/7TXQoDTbUA0
-        text: Wenn du meinst - video - YouTube
-        backgroundImageURL: /assets/images/cover/WennDuMeinstCoverFINAL_1000x1000.png
+    -   websiteURL: https://youtu.be/FPfuKAegXqo
+        text: Gold - video - YouTube
+        backgroundImageURL: /assets/images/cover/Gold_Cover_NEHMEMER.jpg
     -   websiteURL: https://open.spotify.com/intl-de/track/38IbEZQgn6MbdKO7AZ1kAj?si=759a837e279745d2
         text: All In - Spotify
         backgroundImageURL: /assets/images/cover/AllIn_Cover2_1000x1000.png
